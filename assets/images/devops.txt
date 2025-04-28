@@ -1,0 +1,3112 @@
+
+**Độ khó: 1**
+
+1. What is DevOps?  
+    A) DevOps is the union of People, Process, and Tools to enable continuous delivery of value to our end users.  
+    B) DevOps is a programming language.  
+    C) DevOps is Operational staffs doing Development work.  
+    D) DevOps is a software development model.  
+    **Trả lời đúng:** A
+    
+    1. DevOps là gì?
+    A) DevOps là sự kết hợp của Con người, Quy trình và Công cụ để cho phép cung cấp giá trị liên tục cho người dùng cuối của chúng ta.
+    B) DevOps là một ngôn ngữ lập trình.
+    C) DevOps là nhân viên Vận hành thực hiện công việc Phát triển.
+    D) DevOps là một mô hình phát triển phần mềm.
+    **Trả lời đúng:** A
+    
+2. What challenge(s) does DevOps resolves?  
+    A) Increasingly complex virtualized IT environment  
+    B) The need for rapidly timed software releases; sometimes many in one day  
+    C) The traditional siloed approach to app development and deployment  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    2. DevOps giải quyết những thách thức nào?
+    A) Môi trường IT ảo hóa ngày càng phức tạp
+    B) Nhu cầu phát hành phần mềm nhanh chóng; đôi khi nhiều lần trong một ngày
+    C) Cách tiếp cận truyền thống theo kiểu silo đối với phát triển và triển khai ứng dụng
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+3. DevOps can be interpreted as an outgrowth of ______________ .  
+    A) Agile  
+    B) Waterfall model  
+    C) Promise-based algorithms  
+    D) Test-driven development and model-driven development  
+    **Trả lời đúng:** A
+    
+    3. DevOps có thể được diễn giải là sự phát triển từ ______________ .
+    A) Agile
+    B) Mô hình Waterfall
+    C) Thuật toán dựa trên lời hứa (Promise-based algorithms)
+    D) Phát triển hướng kiểm thử (Test-driven development) và phát triển hướng mô hình (model-driven development)
+    **Trả lời đúng:** A
+    
+4. What are the benefits of adopting DevOps?  
+    A) Faster time to market  
+    B) Increase end-user satisfaction  
+    C) Increase in productivity  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    4. Lợi ích của việc áp dụng DevOps là gì?
+    A) Thời gian đưa sản phẩm ra thị trường nhanh hơn
+    B) Tăng sự hài lòng của người dùng cuối
+    C) Tăng năng suất
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+5. Which of these statements are correct about DevOps?  
+    A) DevOps won’t work in regulated industries.  
+    B) DevOps won’t work with Outsourced Development.  
+    C) You must use cloud technologies.  
+    D) None of the above.  
+    **Trả lời đúng:** D
+    
+    5. Những câu phát biểu nào sau đây là đúng về DevOps?
+    A) DevOps sẽ không hoạt động trong các ngành công nghiệp được quản lý chặt chẽ.
+    B) DevOps sẽ không hoạt động với Phát triển thuê ngoài.
+    C) Bạn phải sử dụng các công nghệ đám mây.
+    D) Không có câu nào ở trên.
+    **Trả lời đúng:** D
+    
+6. Is this statement correct? “DevOps is more than just a tool or a process change; it inherently requires an organisational culture shift”  
+    A) Yes  
+    B) No  
+    **Trả lời đúng:** A
+    
+    6. Câu phát biểu này có đúng không? "DevOps không chỉ là một công cụ hay thay đổi quy trình; nó vốn dĩ đòi hỏi sự thay đổi văn hóa tổ chức"
+    A) Có
+    B) Không
+    **Trả lời đúng:** A
+    
+7. What are the factor(s) required to deliver value faster to customer ?  
+    A) Business  
+    B) Dev Teams  
+    C) Ops Team  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    7. Những yếu tố nào cần thiết để cung cấp giá trị nhanh hơn cho khách hàng?
+    A) Doanh nghiệp
+    B) Nhóm Phát triển
+    C) Nhóm Vận hành
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+8. What does CALMS framework stands for?  
+    A) Culture, Automation, Lean, Measurement, Sharing  
+    B) Collaboration, Asset, Lean, Measurement, Sharing  
+    C) Culture, Automation, Learn, Measurement, Solo  
+    D) Collaboration, Asset, Learn, Maintenance, Solo  
+    **Trả lời đúng:** A
+    
+    8. Khung làm việc CALMS là viết tắt của gì?
+    A) Culture (Văn hóa), Automation (Tự động hóa), Lean (Tinh gọn), Measurement (Đo lường), Sharing (Chia sẻ)
+    B) Collaboration (Hợp tác), Asset (Tài sản), Lean (Tinh gọn), Measurement (Đo lường), Sharing (Chia sẻ)
+    C) Culture (Văn hóa), Automation (Tự động hóa), Learn (Học hỏi), Measurement (Đo lường), Solo (Đơn lẻ)
+    D) Collaboration (Hợp tác), Asset (Tài sản), Learn (Học hỏi), Maintenance (Bảo trì), Solo (Đơn lẻ)
+    **Trả lời đúng:** A
+    
+9. What is not a practice for Lean Management?  
+    A) Kanban board  
+    B) Effective work in progress limits  
+    C) Release management  
+    D) Visualization  
+    **Trả lời đúng:** C
+    
+    9. Cái nào không phải là một thực hành của Quản lý Tinh gọn (Lean Management)?
+    A) Bảng Kanban
+    B) Giới hạn công việc đang tiến hành hiệu quả
+    C) Quản lý phát hành (Release management)
+    D) Trực quan hóa (Visualization)
+    **Trả lời đúng:** C
+    
+10. What is Kanban?  
+    A) Kanban is a method for managing the creation of products with an emphasis on continual delivery while not overburdening the development team.  
+    B) Kanban is a signboard for monitoring systems.  
+    C) Kanban is another name for DevOps.  
+    D) Kanban is a communication tools for development team.  
+    **Trả lời đúng:** A
+    
+    10. Kanban là gì?
+    A) Kanban là một phương pháp quản lý việc tạo ra sản phẩm với sự nhấn mạnh vào việc cung cấp liên tục mà không gây quá tải cho nhóm phát triển.
+    B) Kanban là một biển báo để giám sát hệ thống.
+    C) Kanban là tên gọi khác của DevOps.
+    D) Kanban là một công cụ giao tiếp cho nhóm phát triển.
+    **Trả lời đúng:** A
+    
+11. Which of these accurately describes the term “DevOps?""  
+    A) DevOps is a cultural approach to improving communications between the development and operations teams in an organization  
+    B) DevOps is the term describing someone who moderates the exchanges between development and operations  
+    C) DevOps is the name of a job for an employee who can work as both a systems engineer and a developer  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    11. Câu nào sau đây mô tả chính xác thuật ngữ "DevOps"?
+    A) DevOps là một cách tiếp cận văn hóa để cải thiện giao tiếp giữa các nhóm phát triển và vận hành trong một tổ chức
+    B) DevOps là thuật ngữ mô tả người điều phối các trao đổi giữa phát triển và vận hành
+    C) DevOps là tên một công việc cho nhân viên có thể làm cả kỹ sư hệ thống và nhà phát triển
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+12. The DevOps movement is an outgrowth of which software development methodology?  
+    A) Agile  
+    B) Scrum  
+    C) Extreme Programming (XP)  
+    D) TDD and MDD  
+    **Trả lời đúng:** A
+    
+    12. Phong trào DevOps là sự phát triển từ phương pháp phát triển phần mềm nào?
+    A) Agile
+    B) Scrum
+    C) Extreme Programming (XP)
+    D) TDD và MDD
+    **Trả lời đúng:** A
+    
+13. Which of these tools is not associated with DevOps?  
+    A) Chef  
+    B) Puppet  
+    C) Juju  
+    D) Nicira  
+    **Trả lời đúng:** D
+    
+    13. Công cụ nào sau đây không liên quan đến DevOps?
+    A) Chef
+    B) Puppet
+    C) Juju
+    D) Nicira
+    **Trả lời đúng:** D
+    
+14. The DevOps movement has evolved to solve which problems?  
+    A) Increasingly complex, virtualized IT environments  
+    B) The need for multiple software releases, sometimes in one day  
+    C) The traditional siloed approach to app development  
+    D) Peace in the Middle East, All of the above  
+    **Trả lời đúng:** E (Đáp án gốc là D, nhưng nếu xem xét các lựa chọn A, B, C thì D phải là All of the above)
+    
+    14. Phong trào DevOps đã phát triển để giải quyết những vấn đề nào?
+    A) Môi trường IT ảo hóa, phức tạp ngày càng tăng
+    B) Nhu cầu phát hành nhiều phiên bản phần mềm, đôi khi trong một ngày
+    C) Cách tiếp cận truyền thống theo kiểu silo đối với phát triển ứng dụng
+    D) Hòa bình ở Trung Đông, Tất cả các lựa chọn trên
+    **Trả lời đúng:** E (Đáp án gốc là D, nhưng nếu xem xét các lựa chọn A, B, C thì D phải là All of the above. Vì có lựa chọn D hơi lạ nên giữ nguyên đánh số E cho đáp án đúng theo ý định ban đầu nếu D là All of the above)
+    
+15. Which DevOps principle appreciates measuring processes, people, and tools?  
+    A) Continuous improvement  
+    B) Create with the end in mind  
+    C) Cross-functional autonomous teams  
+    D) People responsibility  
+    **Trả lời đúng:** A
+    
+    15. Nguyên tắc DevOps nào coi trọng việc đo lường các quy trình, con người và công cụ?
+    A) Cải tiến liên tục
+    B) Tạo ra với mục tiêu cuối cùng trong tâm trí
+    C) Các nhóm tự quản đa chức năng
+    D) Trách nhiệm của con người
+    **Trả lời đúng:** A
+    
+16. Which role should ensure that user stories adhere to the Definition of Ready (DoR)?  
+    A) Product Owner  
+    B) Scrum Master  
+    C) Service Manager  
+    D) Scrum Team  
+    **Trả lời đúng:** D
+    
+    16. Vai trò nào nên đảm bảo rằng các câu chuyện người dùng tuân thủ Định nghĩa Sẵn sàng (DoR)?
+    A) Product Owner (Chủ sở hữu sản phẩm)
+    B) Scrum Master
+    C) Service Manager (Quản lý dịch vụ)
+    D) Scrum Team (Nhóm Scrum)
+    **Trả lời đúng:** D
+    
+17. What are the appropriate characteristics of Continuous Delivery approach?
+    
+    1. Complex, but small number of releases
+        
+    2. A focus on cycle time reduction
+        
+    3. Resource-based management of the process
+        
+    4. Self-managed and responsive teams  
+        A) 1 and 3  
+        B) 2 and 4  
+        C) 2, 3, and 4  
+        D) 1, 2, 3, and 4  
+        **Trả lời đúng:** B
+        
+    17. Những đặc điểm phù hợp của phương pháp Continuous Delivery là gì?
+    1. Phức tạp, nhưng số lượng phát hành nhỏ
+    2. Tập trung vào việc giảm thời gian chu kỳ
+    3. Quản lý quy trình dựa trên tài nguyên
+    4. Các nhóm tự quản lý và phản ứng nhanh
+    A) 1 và 3
+    B) 2 và 4
+    C) 2, 3 và 4
+    D) 1, 2, 3 và 4
+    **Trả lời đúng:** B
+    
+18. What is the main benefit of automated provisioning?  
+    A) Flexible approach to ad-hoc system changes  
+    B) Focus on operational perspective to control infrastructure changes  
+    C) High speed delivery of new environments  
+    D) Variability in application environments  
+    **Trả lời đúng:** C
+    
+    18. Lợi ích chính của việc cung cấp tự động (automated provisioning) là gì?
+    A) Cách tiếp cận linh hoạt đối với các thay đổi hệ thống đột xuất
+    B) Tập trung vào góc độ vận hành để kiểm soát các thay đổi hạ tầng
+    C) Tốc độ cung cấp môi trường mới cao
+    D) Biến động trong môi trường ứng dụng
+    **Trả lời đúng:** C
+    
+19. Which statement does NOT define DevOps?  
+    A) DevOps is a movement or practice that emphasizes collaboration and communication of both software developers and other Information Technology (IT) professionals.  
+    B) DevOps is a framework and job title that focuses on structured processes to organize flow between the Development and Operations teams.  
+    C) DevOps is about experiences, ideas, and culture.  
+    D) DevOps is an activity of optimizing the developmentto-operations value stream by creating an increasingly smooth, fast flow of application changes from development into operations.  
+    **Trả lời đúng:** B
+    
+    19. Câu nào KHÔNG định nghĩa DevOps?
+    A) DevOps là một phong trào hoặc thực hành nhấn mạnh sự hợp tác và giao tiếp của cả nhà phát triển phần mềm và các chuyên gia Công nghệ thông tin (IT) khác.
+    B) DevOps là một khung làm việc và chức danh công việc tập trung vào các quy trình có cấu trúc để tổ chức luồng công việc giữa các nhóm Phát triển và Vận hành.
+    C) DevOps là về kinh nghiệm, ý tưởng và văn hóa.
+    D) DevOps là hoạt động tối ưu hóa luồng giá trị từ phát triển đến vận hành bằng cách tạo ra một luồng thay đổi ứng dụng ngày càng mượt mà, nhanh chóng từ phát triển sang vận hành.
+    **Trả lời đúng:** B
+    
+20. Your DevOps team is a stable team, where team members have been working together for several sprints now. The team is having trouble delivering a new version of the product for use by your customers. You are supposed to be delivering work in sprints of two weeks, but the team is unable to deliver agreed upgrades in time. What is the appropriate approach to meet the timelines in subsequent sprints?  
+    A) Extend the sprint to four weeks to give team more time  
+    B) Expect that the team will learn from the mistakes and will fix the problem in the next cycle.  
+    C) Shorten the sprint to take small steps and find the problems quickly.  
+    D) Focus on only few limited changes that are viable to be delivered in two weeks.  
+    **Trả lời đúng:** D
+    
+    20. Nhóm DevOps của bạn là một nhóm ổn định, các thành viên đã làm việc cùng nhau trong vài sprint. Nhóm đang gặp khó khăn trong việc cung cấp phiên bản mới của sản phẩm cho khách hàng. Các bạn được cho là sẽ bàn giao công việc trong các sprint kéo dài hai tuần, nhưng nhóm không thể bàn giao các bản nâng cấp đã thỏa thuận đúng hạn. Cách tiếp cận phù hợp để đáp ứng tiến độ trong các sprint tiếp theo là gì?
+    A) Kéo dài sprint lên bốn tuần để nhóm có thêm thời gian
+    B) Hy vọng rằng nhóm sẽ học hỏi từ những sai lầm và sẽ khắc phục vấn đề trong chu kỳ tiếp theo.
+    C) Rút ngắn sprint để thực hiện các bước nhỏ và tìm ra vấn đề nhanh chóng.
+    D) Chỉ tập trung vào một vài thay đổi giới hạn có thể thực hiện được trong hai tuần.
+    **Trả lời đúng:** D
+    
+21. Which statement best describes the goal of DevOps?  
+    A) Establish an environment where change management does not control application releases  
+    B) Establish an environment to release more reliable applications faster  
+    C) Establish an environment where application development performs all the operation tasks  
+    D) Estalish an environment where the release of applications is valued more than its quality  
+    **Trả lời đúng:** B
+    
+    21. Câu phát biểu nào mô tả tốt nhất mục tiêu của DevOps?
+    A) Thiết lập một môi trường mà quản lý thay đổi không kiểm soát việc phát hành ứng dụng
+    B) Thiết lập một môi trường để phát hành các ứng dụng đáng tin cậy hơn nhanh hơn
+    C) Thiết lập một môi trường mà phát triển ứng dụng thực hiện tất cả các tác vụ vận hành
+    D) Thiết lập một môi trường mà việc phát hành ứng dụng được coi trọng hơn chất lượng của nó
+    **Trả lời đúng:** B
+    
+22. You have a stable Devops team where members are working together for several sprints. Recently, the team is having trouble in delivering a new version of the product. They are unable to deliver upgrades in time with a two week sprint. How can you overcome this challenge?  
+    A) Extend the sprint to four weeks to give the team more time  
+    B) Expect that the team will learn from the mistakes and fix the problem in the next cycle  
+    C) Shorten the sprint to achieve smaller targets and find the problem quickly  
+    D) Focus only on few limited changes that are viable to be delivered in two weeks  
+    **Trả lời đúng:** C
+    
+    22. Bạn có một nhóm DevOps ổn định với các thành viên làm việc cùng nhau trong vài sprint. Gần đây, nhóm đang gặp khó khăn trong việc bàn giao phiên bản mới của sản phẩm. Họ không thể bàn giao các bản nâng cấp đúng hạn với một sprint hai tuần. Làm thế nào bạn có thể vượt qua thách thức này?
+    A) Kéo dài sprint lên bốn tuần để nhóm có thêm thời gian
+    B) Hy vọng rằng nhóm sẽ học hỏi từ những sai lầm và khắc phục vấn đề trong chu kỳ tiếp theo
+    C) Rút ngắn sprint để đạt được các mục tiêu nhỏ hơn và tìm ra vấn đề nhanh chóng
+    D) Chỉ tập trung vào một vài thay đổi giới hạn có thể thực hiện được trong hai tuần
+    **Trả lời đúng:** C
+    
+23. The development of new software and IT services consist of functional and non-functional requirements. At which stage of the development process should the non-functional requirements be addressed, to be able to deliver software and services faster and better?  
+    A) From the initiation stage of the software development  
+    B) After the functional acceptance test by the customer representatives  
+    C) Along with the implementation of continuous delivery  
+    D) The non-functional requirements are of no concern to the customers  
+    **Trả lời đúng:** A
+    
+    23. Việc phát triển phần mềm và dịch vụ IT mới bao gồm các yêu cầu chức năng và phi chức năng. Ở giai đoạn nào của quy trình phát triển nên giải quyết các yêu cầu phi chức năng, để có thể bàn giao phần mềm và dịch vụ nhanh hơn và tốt hơn?
+    A) Từ giai đoạn khởi tạo của việc phát triển phần mềm
+    B) Sau khi đại diện khách hàng thực hiện kiểm thử chấp nhận chức năng
+    C) Cùng với việc triển khai continuous delivery
+    D) Các yêu cầu phi chức năng không phải là mối quan tâm của khách hàng
+    **Trả lời đúng:** A
+    
+24. In Git, if you want to make your local repository reflect the changes made in a remote (tracked) repository, you should run the pull command.  
+    A) TRUE  
+    B) FALSE  
+    **Trả lời đúng:** A
+    
+    24. Trong Git, nếu bạn muốn kho lưu trữ cục bộ của mình phản ánh các thay đổi đã thực hiện trong kho lưu trữ từ xa (được theo dõi), bạn nên chạy lệnh pull.
+    A) ĐÚNG
+    B) SAI
+    **Trả lời đúng:** A
+    
+25. You have a local repository, but the team members have pushed the changes into the remote repository. Which Git operation would you use to download those changes into your working copy?  
+    A) checkout  
+    B) commit  
+    C) export  
+    D) pull  
+    **Trả lời đúng:** D
+    
+    25. Bạn có một kho lưu trữ cục bộ, nhưng các thành viên trong nhóm đã đẩy các thay đổi lên kho lưu trữ từ xa. Bạn sẽ sử dụng thao tác Git nào để tải các thay đổi đó về bản sao làm việc của mình?
+    A) checkout
+    B) commit
+    C) export
+    D) pull
+    **Trả lời đúng:** D
+    
+26. Which of the following is not a part of the data structure of a Git repository?  
+    A) Body element  
+    B) Branch pointer  
+    C) Commit object  
+    D) Head pointer  
+    **Trả lời đúng:** A
+    
+    26. Cái nào sau đây không phải là một phần của cấu trúc dữ liệu của một kho lưu trữ Git?
+    A) Phần tử Body (Body element)
+    B) Con trỏ nhánh (Branch pointer)
+    C) Đối tượng commit (Commit object)
+    D) Con trỏ Head (Head pointer)
+    **Trả lời đúng:** A
+    
+27. Which file can you configure to ensure that certain file types are not committed to the local Git repository?  
+    A) ignore.git  
+    B) .gitignore  
+    C) gitignore.txt  
+    D) git.ignore  
+    **Trả lời đúng:** B
+    
+    27. Bạn có thể cấu hình tệp nào để đảm bảo rằng một số loại tệp nhất định không được commit vào kho lưu trữ Git cục bộ?
+    A) ignore.git
+    B) .gitignore
+    C) gitignore.txt
+    D) git.ignore
+    **Trả lời đúng:** B
+    
+28. When can a single dash be used within a Git command?  
+    A) When using a single-character option  
+    B) When using a multi-character option  
+    C) When issuing Git commands with multiple options  
+    D) When referencing a Git alias  
+    **Trả lời đúng:** A
+    
+    28. Khi nào có thể sử dụng một dấu gạch ngang đơn trong lệnh Git?
+    A) Khi sử dụng một tùy chọn một ký tự
+    B) Khi sử dụng một tùy chọn nhiều ký tự
+    C) Khi đưa ra các lệnh Git với nhiều tùy chọn
+    D) Khi tham chiếu một Git alias
+    **Trả lời đúng:** A
+    
+29. Which source code management plugin does Jenkins install by default?  
+    A) Git  
+    B) Subversion  
+    C) Concurrent versions system  
+    D) None of the above options  
+    **Trả lời đúng:** D
+    
+    29. Plugin quản lý mã nguồn nào Jenkins cài đặt theo mặc định?
+    A) Git
+    B) Subversion
+    C) Concurrent versions system
+    D) Không có lựa chọn nào ở trên
+    **Trả lời đúng:** D
+    
+30. Which environment variable do you optionally use to specify the folder in which the Jenkins configuration and runtime data are contained?  
+    A) JENKINS_ROOT  
+    B) M2_HOME  
+    C) JENKINS_HOME  
+    D) JAVA_HOME  
+    **Trả lời đúng:** C
+    
+    30. Biến môi trường nào bạn tùy chọn sử dụng để chỉ định thư mục chứa cấu hình và dữ liệu runtime của Jenkins?
+    A) JENKINS_ROOT
+    B) M2_HOME
+    C) JENKINS_HOME
+    D) JAVA_HOME
+    **Trả lời đúng:** C
+    
+31. Which of the following is a source code management tool?  
+    A) Jenkins  
+    B) Maven  
+    C) Git  
+    D) Hudson  
+    **Trả lời đúng:** C
+    
+    31. Công cụ nào sau đây là công cụ quản lý mã nguồn?
+    A) Jenkins
+    B) Maven
+    C) Git
+    D) Hudson
+    **Trả lời đúng:** C
+    
+32. What is the difference between continuous delivery and continuous deployment?  
+    A) Continuous delivery is a manual task, while continuous deployment is an automated task.  
+    B) Continuous delivery has manual releases to production decisions, while continuous deployment has releases automatically pushed to production.  
+    C) Continuous delivery includes all steps of software development life cycle, while continuous deployment may skip few steps such as validation and testing.  
+    D) Continuous delivery means complete delivery of the application to customer, while continuous deployment includes only deployment of the application in customer environment.  
+    **Trả lời đúng:** B
+    
+    32. Sự khác biệt giữa continuous delivery và continuous deployment là gì?
+    A) Continuous delivery là một tác vụ thủ công, trong khi continuous deployment là một tác vụ tự động.
+    B) Continuous delivery có quyết định phát hành thủ công lên môi trường production, trong khi continuous deployment có các bản phát hành được đẩy tự động lên môi trường production.
+    C) Continuous delivery bao gồm tất cả các bước của vòng đời phát triển phần mềm, trong khi continuous deployment có thể bỏ qua một vài bước như xác thực và kiểm thử.
+    D) Continuous delivery nghĩa là bàn giao hoàn chỉnh ứng dụng cho khách hàng, trong khi continuous deployment chỉ bao gồm việc triển khai ứng dụng trong môi trường khách hàng.
+    **Trả lời đúng:** B
+    
+33. What are the appropriate characteristics of Continuous delivery approach?  
+    A) Complex, but less number of releases  
+    B) A focus on cycle time reduction  
+    C) Resource-based management of the process  
+    D) Self-managed and responsive teams  
+    **Trả lời đúng:** D
+    
+    33. Những đặc điểm phù hợp của phương pháp Continuous Delivery là gì?
+    A) Phức tạp, nhưng số lượng phát hành ít hơn
+    B) Tập trung vào việc giảm thời gian chu kỳ
+    C) Quản lý quy trình dựa trên tài nguyên
+    D) Các nhóm tự quản lý và phản ứng nhanh
+    **Trả lời đúng:** D
+    
+34. Which command is used to access the list of Ansible_Variables?  
+    A) ansible- m setup hostname  
+    B) ansible pull  
+    C) ansible-playbook playbook.yml --list-hosts  
+    D) ansible-playbook  
+    **Trả lời đúng:** A
+    
+    34. Lệnh nào được sử dụng để truy cập danh sách Ansible_Variables?
+    A) ansible- m setup hostname
+    B) ansible pull
+    C) ansible-playbook playbook.yml --list-hosts
+    D) ansible-playbook
+    **Trả lời đúng:** A
+    
+35. Ansible an open-source tool.  
+    A) TRUE  
+    B) FALSE  
+    **Trả lời đúng:** A
+    
+    35. Ansible là một công cụ mã nguồn mở.
+    A) ĐÚNG
+    B) SAI
+    **Trả lời đúng:** A
+    
+36. Node in Chef is a ______  
+    A) Virtual machine  
+    B) Container instance  
+    C) Physical server  
+    D) All the above options  
+    **Trả lời đúng:** D
+    
+    36. Node trong Chef là một ______
+    A) Máy ảo
+    B) Instance container
+    C) Máy chủ vật lý
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+37. What type of software testing uses JUnit with Java?  
+    A) Unit testing  
+    B) Integration testing  
+    C) Functional testing  
+    D) System testing  
+    **Trả lời đúng:** A
+    
+    37. Loại kiểm thử phần mềm nào sử dụng JUnit với Java?
+    A) Kiểm thử đơn vị (Unit testing)
+    B) Kiểm thử tích hợp (Integration testing)
+    C) Kiểm thử chức năng (Functional testing)
+    D) Kiểm thử hệ thống (System testing)
+    **Trả lời đúng:** A
+    
+38. Which value is returned in the JUnit test?  
+    A) String  
+    B) Int  
+    C) Object  
+    D) Void  
+    **Trả lời đúng:** D
+    
+    38. Giá trị nào được trả về trong kiểm thử JUnit?
+    A) String
+    B) Int
+    C) Object
+    D) Void
+    **Trả lời đúng:** D
+    
+39. Which methods cannot be tested by JUnit test class?  
+    A) Public Methods  
+    B) Private Methods  
+    C) Protected Methods  
+    D) Methods with void return type  
+    **Trả lời đúng:** B
+    
+    39. Phương thức nào không thể được kiểm thử bởi lớp kiểm thử JUnit?
+    A) Phương thức Public
+    B) Phương thức Private
+    C) Phương thức Protected
+    D) Phương thức có kiểu trả về void
+    **Trả lời đúng:** B
+    
+40. Which of the following methods of Assert class checks that a condition is true?  
+    A) void assert(boolean condition)  
+    B) void assertTrue(boolean condition)  
+    C) void assertCheck(boolean condition)  
+    D) void assertChecks(boolean condition)  
+    **Trả lời đúng:** B
+    
+    40. Phương thức nào sau đây của lớp Assert kiểm tra một điều kiện là đúng?
+    A) void assert(boolean condition)
+    B) void assertTrue(boolean condition)
+    C) void assertCheck(boolean condition)
+    D) void assertChecks(boolean condition)
+    **Trả lời đúng:** B
+    
+41. Docker containers are based on open standard________________________  
+    A) Allowing containers to run only on major Linux distributions.  
+    B) Allowing containers to run on Microsoft operating systems only  
+    C) Allowing containers to run on all major Linux distributions and Microsoft operating systems  
+    D) None of the above options  
+    **Trả lời đúng:** C
+    
+    41. Container Docker dựa trên tiêu chuẩn mở________________________
+    A) Cho phép container chỉ chạy trên các bản phân phối Linux chính.
+    B) Cho phép container chỉ chạy trên hệ điều hành Microsoft.
+    C) Cho phép container chạy trên tất cả các bản phân phối Linux chính và hệ điều hành Microsoft.
+    D) Không có lựa chọn nào ở trên.
+    **Trả lời đúng:** C
+    
+42. Containers running on a single machine share the same operating system kernel to start instantly and make more efficient use of RAM.  
+    A) TRUE  
+    B) FALSE  
+    **Trả lời đúng:** A
+    
+    42. Các container chạy trên một máy duy nhất chia sẻ cùng một kernel hệ điều hành để khởi động ngay lập tức và sử dụng RAM hiệu quả hơn.
+    A) ĐÚNG
+    B) SAI
+    **Trả lời đúng:** A
+    
+43. Containers include the application and all of it’s dependencies, but share the kernel with other containers. They run as an isolated process in userspace on the host operating system.  
+    A) TRUE  
+    B) FALSE  
+    **Trả lời đúng:** A
+    
+    43. Container bao gồm ứng dụng và tất cả các phụ thuộc của nó, nhưng chia sẻ kernel với các container khác. Chúng chạy như một tiến trình cô lập trong không gian người dùng trên hệ điều hành máy chủ.
+    A) ĐÚNG
+    B) SAI
+    **Trả lời đúng:** A
+    
+44. __________ is native clustering for Docker. It turns a pool of Docker hosts into a single, virtual Docker host.  
+    A) Docker Swarm  
+    B) Docker Hub  
+    C) Docker Cloud  
+    D) Docker Compose  
+    **Trả lời đúng:** A
+    
+    44. __________ là công cụ gom cụm (clustering) gốc cho Docker. Nó biến một nhóm các máy chủ Docker thành một máy chủ Docker ảo duy nhất.
+    A) Docker Swarm
+    B) Docker Hub
+    C) Docker Cloud
+    D) Docker Compose
+    **Trả lời đúng:** A
+    
+45. _________ command is used to remove an empty directory.  
+    A) rdir  
+    B) remove  
+    C) rm  
+    D) rmdir  
+    **Trả lời đúng:** D
+    
+    45. Lệnh _________ được sử dụng để xóa một thư mục trống.
+    A) rdir
+    B) remove
+    C) rm
+    D) rmdir
+    **Trả lời đúng:** D
+    
+46. __________ is an open-source container management tool which holds the responsibilities of container deployment, scaling and descaling of containers, and load balancing.  
+    A) Grafana  
+    B) Nagios  
+    C) Kubernetes  
+    D) Docker  
+    **Trả lời đúng:** C
+    
+    46. __________ là một công cụ quản lý container mã nguồn mở chịu trách nhiệm triển khai container, mở rộng và thu nhỏ container, và cân bằng tải.
+    A) Grafana
+    B) Nagios
+    C) Kubernetes
+    D) Docker
+    **Trả lời đúng:** C
+    
+47. Which of the following is/are features of Kubernetes?  
+    A) Automated scheduling  
+    B) Self-healing capabilities  
+    C) Automated rollouts and rollbacks  
+    D) All of the above options  
+    **Trả lời đúng:** D
+    
+    47. Cái nào sau đây là/các tính năng của Kubernetes?
+    A) Lập lịch tự động
+    B) Khả năng tự phục hồi
+    C) Triển khai và hoàn tác tự động
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+48. Which one of the following methodologies does least impact the establishment of DevOps methodology?  
+    A) Lean Manufacturing.  
+    B) Agile Software Delivery.  
+    C) Waterfall Software Delivery.  
+    D) Continuous Software Delivery.  
+    **Trả lời đúng:** C
+    
+    48. Phương pháp nào sau đây ít ảnh hưởng nhất đến việc thiết lập phương pháp DevOps?
+    A) Sản xuất tinh gọn (Lean Manufacturing).
+    B) Phân phối phần mềm Agile.
+    C) Phân phối phần mềm Waterfall.
+    D) Phân phối phần mềm liên tục (Continuous Software Delivery).
+    **Trả lời đúng:** C
+    
+49. In typical IT organizations why is there a typical conflict between development and operations teams?  
+    A) Because they come from different backgrounds.  
+    B) Because development team knows more about software products and services.  
+    C) Because operations team knows more about test and production environments.  
+    D) Because they have conflicting business goals and priorities.  
+    **Trả lời đúng:** D
+    
+    49. Trong các tổ chức IT điển hình, tại sao thường có xung đột giữa các nhóm phát triển và vận hành?
+    A) Bởi vì họ đến từ các nền tảng khác nhau.
+    B) Bởi vì nhóm phát triển biết nhiều hơn về các sản phẩm và dịch vụ phần mềm.
+    C) Bởi vì nhóm vận hành biết nhiều hơn về môi trường kiểm thử và production.
+    D) Bởi vì họ có các mục tiêu và ưu tiên kinh doanh mâu thuẫn.
+    **Trả lời đúng:** D
+    
+50. Which one of the following techniques makes DevOps a successful methodology to develop and deliver software?  
+    A) DevOps enables you to organize your teams around your organizational mission.  
+    B) DevOps enables you to create your software with built-in quality and monitoring.  
+    C) DevOps enables you to quickly identify, fix and learn from errors.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    50. Kỹ thuật nào sau đây làm cho DevOps trở thành một phương pháp thành công để phát triển và bàn giao phần mềm?
+    A) DevOps cho phép bạn tổ chức các nhóm của mình xung quanh sứ mệnh tổ chức của bạn.
+    B) DevOps cho phép bạn tạo ra phần mềm của mình với chất lượng và giám sát tích hợp.
+    C) DevOps cho phép bạn nhanh chóng xác định, khắc phục và học hỏi từ các lỗi.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+
+**Độ khó: 2**
+
+1. Which one of the following statements about DevOps is incorrect?  
+    A) DevOps is only suitable for start-up companies.  
+    B) DevOps is suitable for brownfield software products and services.  
+    C) DevOps is suitable for greenfield software products and services.  
+    D) Some of the most exemplary DevOps initiatives started in companies with giant and mature IT organizations.  
+    **Trả lời đúng:** A
+    
+    1. Câu nào sau đây về DevOps là không đúng?
+    A) DevOps chỉ phù hợp với các công ty khởi nghiệp.
+    B) DevOps phù hợp với các sản phẩm và dịch vụ phần mềm brownfield (đã có sẵn).
+    C) DevOps phù hợp với các sản phẩm và dịch vụ phần mềm greenfield (mới hoàn toàn).
+    D) Một số sáng kiến DevOps mẫu mực nhất bắt đầu ở các công ty có tổ chức IT khổng lồ và trưởng thành.
+    **Trả lời đúng:** A
+    
+2. How does a DevOps organization act in principle when it comes to financing its work?  
+    A) It finances special projects to serve its clients.  
+    B) It finances products and services to serve its clients.  
+    C) It finances teams in matrix organizations and these teams are responsible for handling their own budgets.  
+    D) It finances development and operations teams separately, so they take care of their own business.  
+    **Trả lời đúng:** B
+    
+    2. Một tổ chức DevOps hành động theo nguyên tắc nào khi nói đến việc tài trợ cho công việc của mình?
+    A) Nó tài trợ cho các dự án đặc biệt để phục vụ khách hàng của mình.
+    B) Nó tài trợ cho các sản phẩm và dịch vụ để phục vụ khách hàng của mình.
+    C) Nó tài trợ cho các nhóm trong các tổ chức ma trận và các nhóm này chịu trách nhiệm quản lý ngân sách của riêng họ.
+    D) Nó tài trợ cho các nhóm phát triển và vận hành riêng biệt, vì vậy họ tự lo liệu công việc kinh doanh của mình.
+    **Trả lời đúng:** B
+    
+3. In a DevOps organization which one of the following elements does not directly contribute to your value stream?  
+    A) DevOps team.  
+    B) Stakeholders of downstream work centers.  
+    C) Errors, incidents and fixes.  
+    D) Clients.  
+    **Trả lời đúng:** C
+    
+    3. Trong một tổ chức DevOps, yếu tố nào sau đây không trực tiếp đóng góp vào luồng giá trị của bạn?
+    A) Nhóm DevOps.
+    B) Các bên liên quan của các trung tâm công việc hạ nguồn.
+    C) Lỗi, sự cố và bản sửa lỗi.
+    D) Khách hàng.
+    **Trả lời đúng:** C
+    
+4. Why is it a good idea to limit batch size of your continuous DevOps deliveries?  
+    A) You will be quicker to identify root causes of issues and resolve them.  
+    B) By continuously delivering in production, your team will have the constant pride of contributing your organizational mission.  
+    C) Potentially required rollbacks from your production systems will be less cumbersome.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    4. Tại sao giới hạn kích thước lô (batch size) trong các bản bàn giao DevOps liên tục của bạn lại là một ý tưởng hay?
+    A) Bạn sẽ nhanh hơn trong việc xác định nguyên nhân gốc rễ của các vấn đề và giải quyết chúng.
+    B) Bằng cách bàn giao liên tục trong môi trường production, nhóm của bạn sẽ luôn tự hào vì đã đóng góp vào sứ mệnh tổ chức của bạn.
+    C) Các bản hoàn tác (rollbacks) có thể cần thiết từ hệ thống production của bạn sẽ ít cồng kềnh hơn.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+5. What is trunk in trunk based DevOps delivery?  
+    A) Developers collaborate on code in a single branch called “trunk”.  
+    B) Trunk is a special private branch in a developer workstation.  
+    C) Trunk is the process of merging code in DevOps deliveries.  
+    D) Trunk is a special source code version controlling system which stores mission critical special projects of your DevOps organization.  
+    **Trả lời đúng:** A
+    
+    5. Trunk trong continuous delivery dựa trên trunk là gì?
+    A) Các nhà phát triển cộng tác trên mã nguồn trong một nhánh duy nhất gọi là "trunk".
+    B) Trunk là một nhánh riêng đặc biệt trong máy trạm của nhà phát triển.
+    C) Trunk là quá trình hợp nhất mã nguồn trong các bản bàn giao DevOps.
+    D) Trunk là một hệ thống kiểm soát phiên bản mã nguồn đặc biệt lưu trữ các dự án đặc biệt quan trọng của tổ chức DevOps của bạn.
+    **Trả lời đúng:** A
+    
+6. Which one of the following is not one of the DevOps principles for good test automation?  
+    A) Test Automation should give quick and early feedback about your quality of work.  
+    B) Never mix test driven development (TDD) together with your test automation approach.  
+    C) Tests should generate consistent, deterministic and repeatable results provided same conditions for different test runs.  
+    D) With your test automation, avoid slow and periodic feedback. What you need is fast feedback whenever you or your developer attempts to check-in code to your trunk.  
+    **Trả lời đúng:** B
+    
+    6. Cái nào sau đây không phải là một trong những nguyên tắc DevOps để tự động hóa kiểm thử tốt?
+    A) Tự động hóa kiểm thử nên cung cấp phản hồi nhanh chóng và sớm về chất lượng công việc của bạn.
+    B) Không bao giờ kết hợp phát triển hướng kiểm thử (TDD) cùng với phương pháp tự động hóa kiểm thử của bạn.
+    C) Các kiểm thử nên tạo ra kết quả nhất quán, xác định và có thể lặp lại khi cung cấp cùng điều kiện cho các lần chạy kiểm thử khác nhau.
+    D) Với tự động hóa kiểm thử của bạn, hãy tránh phản hồi chậm và định kỳ. Cái bạn cần là phản hồi nhanh bất cứ khi nào bạn hoặc nhà phát triển của bạn cố gắng check-in mã nguồn vào trunk của bạn.
+    **Trả lời đúng:** B
+    
+7. What is one of best techniques to convert normal changes into standard changes?  
+    A) Use your track record of successful automated deployments with standard changes.  
+    B) Negotiate with release managers.  
+    C) Publicly complain about bureaucracy and make everyone be aware of it.  
+    D) Make sure normal changes are very carefully deployed to your production systems.  
+    **Trả lời đúng:** A
+    
+    7. Một trong những kỹ thuật tốt nhất để chuyển đổi các thay đổi bình thường thành các thay đổi tiêu chuẩn là gì?
+    A) Sử dụng lịch sử triển khai tự động thành công với các thay đổi tiêu chuẩn của bạn.
+    B) Thương lượng với các quản lý phát hành.
+    C) Công khai phàn nàn về bộ máy quan liêu và làm cho mọi người biết về nó.
+    D) Đảm bảo rằng các thay đổi bình thường được triển khai rất cẩn thận lên hệ thống production của bạn.
+    **Trả lời đúng:** A
+    
+8. What is a widely used reusable asset to reinforce information security of deliverables from your DevOps team?  
+    A) Data storage systems.  
+    B) Handling the logging of sensitive client information.  
+    C) Data transfer between clients and software.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    8. Tài sản có thể tái sử dụng nào được sử dụng rộng rãi để củng cố bảo mật thông tin của các sản phẩm bàn giao từ nhóm DevOps của bạn?
+    A) Hệ thống lưu trữ dữ liệu.
+    B) Xử lý việc ghi nhật ký thông tin nhạy cảm của khách hàng.
+    C) Truyền dữ liệu giữa khách hàng và phần mềm.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+9. What is not one of major benefits of designing a safe system of work culture?  
+    A) Complexity of your systems will be managed, so problems in designs and operations will be quickly detected.  
+    B) DevOps team does no longer need to be careful and mindful to ensure quality.  
+    C) Problems are quickly resolved while they are small. Resolving problems will result in spontaneous construction of new organizational knowledge and experience.  
+    D) Leaders in your DevOps organization develop other leaders who create and continuously improve safe systems of work.  
+    **Trả lời đúng:** B
+    
+    9. Cái nào không phải là một trong những lợi ích chính của việc thiết kế một hệ thống văn hóa làm việc an toàn?
+    A) Độ phức tạp của hệ thống của bạn sẽ được quản lý, vì vậy các vấn đề trong thiết kế và vận hành sẽ được phát hiện nhanh chóng.
+    B) Nhóm DevOps không cần phải cẩn thận và chú ý để đảm bảo chất lượng nữa.
+    C) Các vấn đề được giải quyết nhanh chóng khi chúng còn nhỏ. Việc giải quyết vấn đề sẽ dẫn đến việc xây dựng kiến thức và kinh nghiệm tổ chức mới một cách tự phát.
+    D) Các nhà lãnh đạo trong tổ chức DevOps của bạn phát triển các nhà lãnh đạo khác, những người tạo ra và liên tục cải thiện các hệ thống làm việc an toàn.
+    **Trả lời đúng:** B
+    
+10. An organization maintains an independent and autonomous team for each of its services. What is a possible disadvantage of this type of organization structure?  
+    A) Quality of delivered features will be low.  
+    B) Implementation of changes within a team is slow.  
+    C) Reuse of skills within the organization is limited.  
+    D) Waiting time for processing the service request is high.  
+    **Trả lời đúng:** C
+    
+    10. Một tổ chức duy trì một nhóm độc lập và tự quản cho mỗi dịch vụ của mình. Nhược điểm tiềm ẩn của loại cấu trúc tổ chức này là gì?
+    A) Chất lượng của các tính năng được bàn giao sẽ thấp.
+    B) Việc thực hiện các thay đổi trong một nhóm chậm.
+    C) Việc tái sử dụng kỹ năng trong tổ chức bị hạn chế.
+    D) Thời gian chờ xử lý yêu cầu dịch vụ cao.
+    **Trả lời đúng:** C
+    
+11. What type of mindset is the core of a DevOps culture?  
+    A) Service Mindset  
+    B) Skill Mindset  
+    C) People Mindset  
+    D) Automation Mindset  
+    **Trả lời đúng:** A
+    
+    11. Loại tư duy nào là cốt lõi của văn hóa DevOps?
+    A) Tư duy Dịch vụ (Service Mindset)
+    B) Tư duy Kỹ năng (Skill Mindset)
+    C) Tư duy Con người (People Mindset)
+    D) Tư duy Tự động hóa (Automation Mindset)
+    **Trả lời đúng:** A
+    
+12. What is NOT an appropriate predictor of IT performance in a DevOps environment?  
+    A) Changes approved by an external team members  
+    B) High-trust organizational culture  
+    C) Proactive monitoring  
+    D) Version control of all artifacts  
+    **Trả lời đúng:** A
+    
+    12. Cái nào KHÔNG phải là một chỉ số dự báo phù hợp về hiệu suất IT trong môi trường DevOps?
+    A) Các thay đổi được phê duyệt bởi thành viên nhóm bên ngoài
+    B) Văn hóa tổ chức tin cậy cao
+    C) Giám sát chủ động
+    D) Kiểm soát phiên bản của tất cả các tạo phẩm
+    **Trả lời đúng:** A
+    
+13. Which of the following software delivery approaches focuses on smaller functional units instead of developing the complete software?  
+    A) Agile  
+    B) Iterative  
+    C) Lean  
+    D) Waterfall  
+    **Trả lời đúng:** A
+    
+    13. Phương pháp phân phối phần mềm nào sau đây tập trung vào các đơn vị chức năng nhỏ hơn thay vì phát triển phần mềm hoàn chỉnh?
+    A) Agile
+    B) Iterative (Lặp)
+    C) Lean (Tinh gọn)
+    D) Waterfall (Thác nước)
+    **Trả lời đúng:** A
+    
+14. The platform products control the freedom and restrictions for the DevOps Business System teams. Which cloud services classification poses the greatest number of restrictions when the customer aims for flexibility for tailoring the complete platform including hardware and software?  
+    A) On-Premise  
+    B) IaaS  
+    C) PaaS  
+    D) SaaS  
+    **Trả lời đúng:** D
+    
+    14. Các sản phẩm nền tảng kiểm soát sự tự do và hạn chế đối với các nhóm Hệ thống Kinh doanh DevOps. Phân loại dịch vụ đám mây nào đặt ra số lượng hạn chế lớn nhất khi khách hàng hướng tới sự linh hoạt trong việc tùy chỉnh toàn bộ nền tảng bao gồm cả phần cứng và phần mềm?
+    A) On-Premise
+    B) IaaS (Infrastructure as a Service)
+    C) PaaS (Platform as a Service)
+    D) SaaS (Software as a Service)
+    **Trả lời đúng:** D
+    
+15. How do the Service Level Management processes of the ITIL Service Design phase map in a DevOps organization?  
+    A) Aims at full autonomy and full responsibility for delivering a product (value) to the customer.  
+    B) Brings new software live in a matter of minutes through automation.  
+    C) Maintains stable and fixed teams to avoid resource-switching between projects.  
+    D) Manages changes through the same mechanisms used for aligning the business with IT.  
+    **Trả lời đúng:** A
+    
+    15. Các quy trình Quản lý Mức độ Dịch vụ (Service Level Management) của giai đoạn Thiết kế Dịch vụ ITIL ánh xạ như thế nào trong một tổ chức DevOps?
+    A) Hướng tới sự tự chủ hoàn toàn và trách nhiệm hoàn toàn trong việc cung cấp sản phẩm (giá trị) cho khách hàng.
+    B) Đưa phần mềm mới hoạt động chỉ trong vài phút thông qua tự động hóa.
+    C) Duy trì các nhóm ổn định và cố định để tránh chuyển đổi tài nguyên giữa các dự án.
+    D) Quản lý các thay đổi thông qua các cơ chế tương tự được sử dụng để căn chỉnh doanh nghiệp với IT.
+    **Trả lời đúng:** A
+    
+16. What is the difference between Continuous Delivery and Continuous Deployment?  
+    A) Continuous Delivery is a manual task, while Continuous Deployment is an automated task.  
+    B) Continuous Delivery has a manual release to production decision, while Continuous Deployment has releases automatically pushed to production.  
+    C) Continuous Delivery includes all steps of software development life cycle; Continuous Deployment may skip few steps such as validation and testing.  
+    D) Continuous Delivery means complete delivery of the application to customer; Continuous Deployment includes only deployment of the application in customer environment.  
+    **Trả lời đúng:** B
+    
+    16. Sự khác biệt giữa Continuous Delivery và Continuous Deployment là gì?
+    A) Continuous Delivery là một tác vụ thủ công, trong khi Continuous Deployment là một tác vụ tự động.
+    B) Continuous Delivery có quyết định phát hành thủ công lên môi trường production, trong khi Continuous Deployment có các bản phát hành được đẩy tự động lên môi trường production.
+    C) Continuous Delivery bao gồm tất cả các bước của vòng đời phát triển phần mềm; Continuous Deployment có thể bỏ qua một vài bước như xác thực và kiểm thử.
+    D) Continuous Delivery nghĩa là bàn giao hoàn chỉnh ứng dụng cho khách hàng; Continuous Deployment chỉ bao gồm việc triển khai ứng dụng trong môi trường khách hàng.
+    **Trả lời đúng:** B
+    
+17. What is NOT an aspect related to governing work in an organization?  
+    A) Attending scrum of scrums  
+    B) Using Feature Switches  
+    C) Using a scrum board to get members of the team on the same page  
+    D) Applying test automation  
+    **Trả lời đúng:** D
+    
+    17. Cái nào KHÔNG phải là một khía cạnh liên quan đến quản lý công việc trong một tổ chức?
+    A) Tham dự scrum của các scrum
+    B) Sử dụng Feature Switches (Công tắc tính năng)
+    C) Sử dụng bảng scrum để giúp các thành viên trong nhóm hiểu rõ cùng một vấn đề
+    D) Áp dụng tự động hóa kiểm thử
+    **Trả lời đúng:** D
+    
+18. What are the characteristics of people working in a DevOps based, product-focused organization?  
+    A) People are functionally organized.  
+    B) People know about business and IT and deliver work, thereby appealing to use any of a person’s kills and/or talents.  
+    C) People are specialist-oriented.  
+    D) People are assigned to multiple projects at once, for reasons related to resource optimization.  
+    **Trả lời đúng:** B
+    
+    18. Đặc điểm của những người làm việc trong một tổ chức tập trung vào sản phẩm dựa trên DevOps là gì?
+    A) Mọi người được tổ chức theo chức năng.
+    B) Mọi người hiểu biết về kinh doanh và IT, và bàn giao công việc, do đó khuyến khích sử dụng bất kỳ kỹ năng và/hoặc tài năng nào của một người.
+    C) Mọi người theo hướng chuyên gia.
+    D) Mọi người được phân công làm nhiều dự án cùng một lúc, vì các lý do liên quan đến tối ưu hóa tài nguyên.
+    **Trả lời đúng:** B
+    
+19. Which phrase fits BEST as a characteristic of a DevOps team, considering that the team is part of an antifragile organization?  
+    A) Employee First  
+    B) Honor Web-inspired value  
+    C) Minimum Viable Bureaucracy  
+    D) Self-management  
+    **Trả lời đúng:** D
+    
+    19. Cụm từ nào phù hợp NHẤT làm đặc điểm của một nhóm DevOps, khi xem xét rằng nhóm là một phần của tổ chức phản yếu (antifragile)?
+    A) Nhân viên là trên hết
+    B) Tôn vinh giá trị được truyền cảm hứng từ Web
+    C) Bộ máy quan liêu tối thiểu khả thi
+    D) Tự quản lý
+    **Trả lời đúng:** D
+    
+20. In DevOps, Business System teams are autonomous teams, who “land” their application and infrastructure code onto a common platform. This common platform is maintained by a Platform team. What is correct about the responsibilities of these teams?  
+    A) The Platform team is always responsible for maintaining the product within its operational environment.  
+    B) When a product/service application is “landed” on the platform, the responsibility of the product/service shifts from the Business System teams to the Platform team.  
+    C) The Business System team is only responsible for the development phase of new services.  
+    D) The Business System teams have an end-to-end responsibility, there is no handover or transfer of responsibility and accountability.  
+    **Trả lời đúng:** D
+    
+    20. Trong DevOps, các nhóm Hệ thống Kinh doanh là các nhóm tự quản, họ "đặt" mã ứng dụng và hạ tầng của mình lên một nền tảng chung. Nền tảng chung này được duy trì bởi một nhóm Nền tảng (Platform team). Điều gì là đúng về trách nhiệm của các nhóm này?
+    A) Nhóm Nền tảng luôn chịu trách nhiệm duy trì sản phẩm trong môi trường vận hành của nó.
+    B) Khi một ứng dụng sản phẩm/dịch vụ được "đặt" lên nền tảng, trách nhiệm của sản phẩm/dịch vụ chuyển từ các nhóm Hệ thống Kinh doanh sang nhóm Nền tảng.
+    C) Nhóm Hệ thống Kinh doanh chỉ chịu trách nhiệm cho giai đoạn phát triển các dịch vụ mới.
+    D) Các nhóm Hệ thống Kinh doanh có trách nhiệm từ đầu đến cuối, không có việc bàn giao hoặc chuyển giao trách nhiệm và trách nhiệm giải trình.
+    **Trả lời đúng:** D
+    
+21. What is the main reason to know exactly who the customer is when setting up a Business Service team?  
+    A) To determine what value and functionalities should be delivered by the team  
+    B) To establish the required mix of skills and knowledge for the team  
+    C) To know what kind of work the team will be handling  
+    D) To understand the scope of the technology responsibility of the team  
+    **Trả lời đúng:** A
+    
+    21. Lý do chính để biết chính xác khách hàng là ai khi thiết lập một nhóm Dịch vụ Kinh doanh (Business Service team) là gì?
+    A) Để xác định giá trị và các chức năng nào nên được nhóm bàn giao
+    B) Để thiết lập sự kết hợp cần thiết về kỹ năng và kiến thức cho nhóm
+    C) Để biết loại công việc nào nhóm sẽ xử lý
+    D) Để hiểu phạm vi trách nhiệm công nghệ của nhóm
+    **Trả lời đúng:** A
+    
+22. Which DevOps principle appreciates measuring processes, people, and tools?  
+    A) Continuous improvement  
+    B) Create with the end in mind  
+    C) Cross-functional autonomous teams  
+    D) People responsibility  
+    **Trả lời đúng:** A
+    
+    22. Nguyên tắc DevOps nào coi trọng việc đo lường các quy trình, con người và công cụ?
+    A) Cải tiến liên tục
+    B) Tạo ra với mục tiêu cuối cùng trong tâm trí
+    C) Các nhóm tự quản đa chức năng
+    D) Trách nhiệm của con người
+    **Trả lời đúng:** A
+    
+23. Which role should ensure that user stories adhere to the Definition of Ready (DoR)?  
+    A) Tester  
+    B) Product Owner  
+    C) Scrum Master  
+    D) Service Manager  
+    **Trả lời đúng:** B
+    
+    23. Vai trò nào nên đảm bảo rằng các câu chuyện người dùng tuân thủ Định nghĩa Sẵn sàng (DoR)?
+    A) Người kiểm thử
+    B) Product Owner (Chủ sở hữu sản phẩm)
+    C) Scrum Master
+    D) Service Manager (Quản lý dịch vụ)
+    **Trả lời đúng:** B
+    
+24. What is the main benefit of automated provisioning?  
+    A) Flexible approach to ad-hoc system changes  
+    B) Focus on operational perspective to control infrastructure changes  
+    C) High speed delivery of new environments  
+    D) Variability in application environments  
+    **Trả lời đúng:** C
+    
+    24. Lợi ích chính của việc cung cấp tự động (automated provisioning) là gì?
+    A) Cách tiếp cận linh hoạt đối với các thay đổi hệ thống đột xuất
+    B) Tập trung vào góc độ vận hành để kiểm soát các thay đổi hạ tầng
+    C) Tốc độ cung cấp môi trường mới cao
+    D) Biến động trong môi trường ứng dụng
+    **Trả lời đúng:** C
+    
+25. What is correct about implementation of measurements within an organization?  
+    A) Defining good measurements are enough for business improvement.  
+    B) Differences in measurements can lead to confrontation within organization; so measurements should be avoide  
+    C) Measurement of one aspect can often represent the overall business scenario.  
+    D) Organizations should establish a balanced view to confront the measurements and draw the right conclusion.  
+    **Trả lời đúng:** D
+    
+    25. Điều gì là đúng về việc triển khai các phép đo trong một tổ chức?
+    A) Việc định nghĩa các phép đo tốt là đủ để cải thiện kinh doanh.
+    B) Sự khác biệt trong các phép đo có thể dẫn đến đối đầu trong tổ chức; vì vậy nên tránh các phép đo.
+    C) Việc đo lường một khía cạnh thường có thể đại diện cho kịch bản kinh doanh tổng thể.
+    D) Các tổ chức nên thiết lập một góc nhìn cân bằng để đối mặt với các phép đo và rút ra kết luận đúng đắn.
+    **Trả lời đúng:** D
+    
+26. What is the correct characteristic for performance metrics?  
+    A) Performance metrics are output oriented.  
+    B) Performance metrics are difficult to measure.  
+    C) Performance metrics are easy to improve.  
+    D) Performance metrics are also known as leading indicators.  
+    **Trả lời đúng:** A
+    
+    26. Đặc điểm đúng cho các chỉ số hiệu suất là gì?
+    A) Các chỉ số hiệu suất theo hướng đầu ra.
+    B) Các chỉ số hiệu suất khó đo lường.
+    C) Các chỉ số hiệu suất dễ cải thiện.
+    D) Các chỉ số hiệu suất còn được gọi là các chỉ số dẫn đầu (leading indicators).
+    **Trả lời đúng:** A
+    
+27. The development of new software and IT services consist of functional and non-functional requirements. From what point in the development process should the non-functional requirements be addressed, to be able to deliver software and services faster and better?  
+    A) From the initiation of the software development  
+    B) After the functional acceptance test by the customer representatives  
+    C) Simultaneous with the implementation of continuous delivery  
+    D) The non-functional requirements are of no concern to the customers  
+    **Trả lời đúng:** A
+    
+    27. Việc phát triển phần mềm và dịch vụ IT mới bao gồm các yêu cầu chức năng và phi chức năng. Từ điểm nào trong quy trình phát triển nên giải quyết các yêu cầu phi chức năng, để có thể bàn giao phần mềm và dịch vụ nhanh hơn và tốt hơn?
+    A) Từ khi khởi tạo việc phát triển phần mềm
+    B) Sau khi đại diện khách hàng thực hiện kiểm thử chấp nhận chức năng
+    C) Đồng thời với việc triển khai continuous delivery
+    D) Các yêu cầu phi chức năng không phải là mối quan tâm của khách hàng
+    **Trả lời đúng:** A
+    
+28. Which statement does NOT define DevOps?  
+    A) DevOps is a movement or practice that emphasizes collaboration and communication of both software developers and other Information Technology (IT) professionals.  
+    B) DevOps is a framework and job title that focuses on structured processes to organize flow between the Development and Operations teams.  
+    C) DevOps is about experiences, ideas, and culture.  
+    D) DevOps is an activity of optimizing the development-to-operations value stream by creating an increasingly smooth, fast flow of application changes from development into operations.  
+    **Trả lời đúng:** B
+    
+    28. Câu nào KHÔNG định nghĩa DevOps?
+    A) DevOps là một phong trào hoặc thực hành nhấn mạnh sự hợp tác và giao tiếp của cả nhà phát triển phần mềm và các chuyên gia Công nghệ thông tin (IT) khác.
+    B) DevOps là một khung làm việc và chức danh công việc tập trung vào các quy trình có cấu trúc để tổ chức luồng công việc giữa các nhóm Phát triển và Vận hành.
+    C) DevOps là về kinh nghiệm, ý tưởng và văn hóa.
+    D) DevOps là hoạt động tối ưu hóa luồng giá trị từ phát triển đến vận hành bằng cách tạo ra một luồng thay đổi ứng dụng ngày càng mượt mà, nhanh chóng từ phát triển sang vận hành.
+    **Trả lời đúng:** B
+    
+29. Which component provides the first feedback on the quality of committed application code changes?  
+    A) Automated Provisioning  
+    B) Automated Build  
+    C) Automated Test  
+    D) Automated Deployment  
+    **Trả lời đúng:** B
+    
+    29. Thành phần nào cung cấp phản hồi đầu tiên về chất lượng của các thay đổi mã nguồn ứng dụng đã commit?
+    A) Cung cấp tự động (Automated Provisioning)
+    B) Build tự động (Automated Build)
+    C) Kiểm thử tự động (Automated Test)
+    D) Triển khai tự động (Automated Deployment)
+    **Trả lời đúng:** B
+    
+30. Which is the correct sequence of tests when testing new software?  
+    A) Functional tests, system tests, unit tests, UI tests  
+    B) UI tests, functional tests, system tests, Unit tests  
+    C) System tests, unit tests, functional tests, UI tests  
+    D) Unit tests, system tests, functional tests, UI tests  
+    **Trả lời đúng:** D
+    
+    30. Trình tự kiểm thử nào là đúng khi kiểm thử phần mềm mới?
+    A) Kiểm thử chức năng, kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử UI
+    B) Kiểm thử UI, kiểm thử chức năng, kiểm thử hệ thống, kiểm thử đơn vị
+    C) Kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử chức năng, kiểm thử UI
+    D) Kiểm thử đơn vị, kiểm thử hệ thống, kiểm thử chức năng, kiểm thử UI
+    **Trả lời đúng:** D
+    
+31. When an Error is identified by a tester it is called a _________. Once the developer looks at it and gives his acknowledgement it is called a ____________.  
+    A) Defect and Bug  
+    B) Defect and Failure  
+    C) Failure and Bug  
+    D) Failure and Defect, Issue and Bug  
+    **Trả lời đúng:** A
+    
+    31. Khi một Lỗi được xác định bởi một người kiểm thử, nó được gọi là một _________. Một khi nhà phát triển xem xét nó và xác nhận, nó được gọi là một ____________.
+    A) Defect và Bug
+    B) Defect và Failure
+    C) Failure và Bug
+    D) Failure và Defect, Issue và Bug
+    **Trả lời đúng:** A
+    
+32. (a)Planning,(b) Rework,(c) Review meeting, (d)Follow up, (e)kick off,(f)individual preparations…. Arrange in right order as they happen in formal review process:  
+    A) (a),(b),(c),(d),(e),(f)  
+    B) (a),(e),(f),(c),(b),(d)  
+    C) (a),(f),(e),(b),(c),(d)  
+    D) (d),(f),(e),(b),(c),(a),(a),(d),(e),(f),(c),(b)  
+    **Trả lời đúng:** B
+    
+    32. (a)Lập kế hoạch,(b) Làm lại,(c) Họp đánh giá, (d)Theo dõi, (e)khởi động,(f)chuẩn bị cá nhân…. Sắp xếp theo đúng thứ tự khi chúng xảy ra trong quy trình đánh giá chính thức:
+    A) (a),(b),(c),(d),(e),(f)
+    B) (a),(e),(f),(c),(b),(d)
+    C) (a),(f),(e),(b),(c),(d)
+    D) (d),(f),(e),(b),(c),(a),(a),(d),(e),(f),(c),(b)
+    **Trả lời đúng:** B
+    
+33. Non functional testing is carried out to check:  
+    A) Performance  
+    B) Usability  
+    C) Which functions should not exist  
+    D) All of the above Choices, 1. and 2. Choices  
+    **Trả lời đúng:** E (Đáp án gốc là 5, tương ứng với "1. and 2. Choices")
+    
+    33. Kiểm thử phi chức năng được thực hiện để kiểm tra:
+    A) Hiệu suất
+    B) Tính khả dụng
+    C) Các chức năng nào không nên tồn tại
+    D) Tất cả các lựa chọn trên, Lựa chọn 1. và 2.
+    **Trả lời đúng:** E (Đáp án gốc là 5, tương ứng với "1. and 2. Choices")
+    
+34. ___________ in a test plan tells when to stop testing:  
+    A) Test Strategy  
+    B) Test Environment  
+    C) Test Completion Criteria  
+    D) Testing Objective, All of the above Choices  
+    **Trả lời đúng:** C
+    
+    34. ___________ trong kế hoạch kiểm thử cho biết khi nào nên dừng kiểm thử:
+    A) Chiến lược kiểm thử
+    B) Môi trường kiểm thử
+    C) Tiêu chí hoàn thành kiểm thử
+    D) Mục tiêu kiểm thử, Tất cả các lựa chọn trên
+    **Trả lời đúng:** C
+    
+35. It is important to carry out integration testing so that:  
+    A) You can make sure that unit testing has been conducted well  
+    B) To check if the system is able to connect well with the other systems available on the network  
+    C) To check how well the modules have been integrated and how they perform after they have been brought together  
+    D) To check if the project was well divided into modules, To detect design errors  
+    **Trả lời đúng:** C
+    
+    35. Việc thực hiện kiểm thử tích hợp là quan trọng để:
+    A) Bạn có thể chắc chắn rằng kiểm thử đơn vị đã được thực hiện tốt
+    B) Để kiểm tra xem hệ thống có thể kết nối tốt với các hệ thống khác có sẵn trên mạng hay không
+    C) Để kiểm tra xem các module đã được tích hợp tốt như thế nào và chúng hoạt động ra sao sau khi được kết hợp lại
+    D) Để kiểm tra xem dự án có được chia thành các module tốt hay không, Để phát hiện các lỗi thiết kế
+    **Trả lời đúng:** C
+    
+36. A tester is not supposed to:  
+    A) Interact with vendor to find out which tool is best for testing  
+    B) Prepare data for testing  
+    C) Create test cases  
+    D) Report defects, Implement tests on all level  
+    **Trả lời đúng:** A
+    
+    36. Một người kiểm thử không được cho là sẽ:
+    A) Tương tác với nhà cung cấp để tìm hiểu công cụ nào tốt nhất cho kiểm thử
+    B) Chuẩn bị dữ liệu cho kiểm thử
+    C) Tạo các trường hợp kiểm thử
+    D) Báo cáo lỗi, Thực hiện kiểm thử ở mọi cấp độ
+    **Trả lời đúng:** A
+    
+37. _____ testing is performed by customers on their own site.  
+    A) Beta Testing  
+    B) Alpha Testing  
+    C) Black box Testing  
+    D) White Box Testing, All of the above Options  
+    **Trả lời đúng:** A
+    
+    37. Kiểm thử _____ được thực hiện bởi khách hàng tại địa điểm của họ.
+    A) Beta Testing
+    B) Alpha Testing
+    C) Black box Testing
+    D) White Box Testing, Tất cả các lựa chọn trên
+    **Trả lời đúng:** A
+    
+38. Which of the following involves managing changes in various versions of software?  
+    A) Change Management  
+    B) Product Management  
+    C) Business Management  
+    D) Test Management, Configuration Management  
+    **Trả lời đúng:** E (Đáp án gốc là 5, tương ứng với "Configuration Management")
+    
+    38. Cái nào sau đây liên quan đến việc quản lý các thay đổi trong các phiên bản phần mềm khác nhau?
+    A) Quản lý Thay đổi
+    B) Quản lý Sản phẩm
+    C) Quản lý Kinh doanh
+    D) Quản lý Kiểm thử, Quản lý Cấu hình
+    **Trả lời đúng:** E (Đáp án gốc là 5, tương ứng với "Configuration Management")
+    
+39. What helps the developer decide which bug needs to get fixed first?  
+    A) Severity  
+    B) Priority  
+    C) Traceability matrix  
+    D) Test Metrics, Process Metrics  
+    **Trả lời đúng:** B
+    
+    39. Điều gì giúp nhà phát triển quyết định lỗi nào cần được sửa trước tiên?
+    A) Mức độ nghiêm trọng (Severity)
+    B) Mức độ ưu tiên (Priority)
+    C) Ma trận truy vết (Traceability matrix)
+    D) Chỉ số kiểm thử (Test Metrics), Chỉ số quy trình (Process Metrics)
+    **Trả lời đúng:** B
+    
+40. Which of the following is not needed in a test incident report:  
+    A) How a defect can be reproduced  
+    B) The details of the test environment  
+    C) Priority of defects  
+    D) How a defect should be rectified, Severity of a defect  
+    **Trả lời đúng:** D
+    
+    40. Cái nào sau đây không cần thiết trong báo cáo sự cố kiểm thử:
+    A) Cách tái tạo lỗi
+    B) Chi tiết môi trường kiểm thử
+    C) Mức độ ưu tiên của lỗi
+    D) Cách khắc phục lỗi, Mức độ nghiêm trọng của lỗi
+    **Trả lời đúng:** D
+    
+41. Which one of the following methodologies does least impact the establishment of DevOps methodology?  
+    A) Lean Manufacturing.  
+    B) Agile Software Delivery.  
+    C) Waterfall Software Delivery.  
+    D) Continuous Software Delivery.  
+    **Trả lời đúng:** C
+    
+    41. Phương pháp nào sau đây ít ảnh hưởng nhất đến việc thiết lập phương pháp DevOps?
+    A) Sản xuất tinh gọn (Lean Manufacturing).
+    B) Phân phối phần mềm Agile.
+    C) Phân phối phần mềm Waterfall.
+    D) Phân phối phần mềm liên tục (Continuous Software Delivery).
+    **Trả lời đúng:** C
+    
+42. In typical IT organizations why is there a typical conflict between development and operations teams?  
+    A) Because they come from different backgrounds.  
+    B) Because development team knows more about software products and services.  
+    C) Because operations team knows more about test and production environments.  
+    D) Because they have conflicting business goals and priorities.  
+    **Trả lời đúng:** D
+    
+    42. Trong các tổ chức IT điển hình, tại sao thường có xung đột giữa các nhóm phát triển và vận hành?
+    A) Bởi vì họ đến từ các nền tảng khác nhau.
+    B) Bởi vì nhóm phát triển biết nhiều hơn về các sản phẩm và dịch vụ phần mềm.
+    C) Bởi vì nhóm vận hành biết nhiều hơn về môi trường kiểm thử và production.
+    D) Bởi vì họ có các mục tiêu và ưu tiên kinh doanh mâu thuẫn.
+    **Trả lời đúng:** D
+    
+43. Which one of the following techniques makes DevOps a successful methodology to develop and deliver software?  
+    A) DevOps enables you to organize your teams around your organizational mission.  
+    B) DevOps enables you to create your software with built-in quality and monitoring.  
+    C) DevOps enables you to quickly identify, fix and learn from errors.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    43. Kỹ thuật nào sau đây làm cho DevOps trở thành một phương pháp thành công để phát triển và bàn giao phần mềm?
+    A) DevOps cho phép bạn tổ chức các nhóm của mình xung quanh sứ mệnh tổ chức của bạn.
+    B) DevOps cho phép bạn tạo ra phần mềm của mình với chất lượng và giám sát tích hợp.
+    C) DevOps cho phép bạn nhanh chóng xác định, khắc phục và học hỏi từ các lỗi.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+44. Which one of the following statements about DevOps is incorrect?  
+    A) DevOps is only suitable for start-up companies.  
+    B) DevOps is suitable for brownfield software products and services.  
+    C) DevOps is suitable for greenfield software products and services.  
+    D) Some of the most exemplary DevOps initiatives started in companies with giant and mature IT organizations.  
+    **Trả lời đúng:** A
+    
+    44. Câu nào sau đây về DevOps là không đúng?
+    A) DevOps chỉ phù hợp với các công ty khởi nghiệp.
+    B) DevOps phù hợp với các sản phẩm và dịch vụ phần mềm brownfield (đã có sẵn).
+    C) DevOps phù hợp với các sản phẩm và dịch vụ phần mềm greenfield (mới hoàn toàn).
+    D) Một số sáng kiến DevOps mẫu mực nhất bắt đầu ở các công ty có tổ chức IT khổng lồ và trưởng thành.
+    **Trả lời đúng:** A
+    
+45. How does a DevOps organization act in principle when it comes to financing its work?  
+    A) It finances special projects to serve its clients.  
+    B) It finances products and services to serve its clients.  
+    C) It finances teams in matrix organizations and these teams are responsible for handling their own budgets.  
+    D) It finances development and operations teams separately, so they take care of their own business.  
+    **Trả lời đúng:** B
+    
+    45. Một tổ chức DevOps hành động theo nguyên tắc nào khi nói đến việc tài trợ cho công việc của mình?
+    A) Nó tài trợ cho các dự án đặc biệt để phục vụ khách hàng của mình.
+    B) Nó tài trợ cho các sản phẩm và dịch vụ để phục vụ khách hàng của mình.
+    C) Nó tài trợ cho các nhóm trong các tổ chức ma trận và các nhóm này chịu trách nhiệm quản lý ngân sách của riêng họ.
+    D) Nó tài trợ cho các nhóm phát triển và vận hành riêng biệt, vì vậy họ tự lo liệu công việc kinh doanh của mình.
+    **Trả lời đúng:** B
+    
+46. In a DevOps organization which one of the following elements does not directly contribute to your value stream?  
+    A) DevOps team.  
+    B) Stakeholders of downstream work centers.  
+    C) Errors, incidents and fixes.  
+    D) Clients.  
+    **Trả lời đúng:** C
+    
+    46. Trong một tổ chức DevOps, yếu tố nào sau đây không trực tiếp đóng góp vào luồng giá trị của bạn?
+    A) Nhóm DevOps.
+    B) Các bên liên quan của các trung tâm công việc hạ nguồn.
+    C) Lỗi, sự cố và bản sửa lỗi.
+    D) Khách hàng.
+    **Trả lời đúng:** C
+    
+47. Why is it a good idea to limit batch size of your continuous DevOps deliveries?  
+    A) You will be quicker to identify root causes of issues and resolve them.  
+    B) By continuously delivering in production, your team will have the constant pride of contributing your organizational mission.  
+    C) Potentially required rollbacks from your production systems will be less cumbersome.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    47. Tại sao giới hạn kích thước lô (batch size) trong các bản bàn giao DevOps liên tục của bạn lại là một ý tưởng hay?
+    A) Bạn sẽ nhanh hơn trong việc xác định nguyên nhân gốc rễ của các vấn đề và giải quyết chúng.
+    B) Bằng cách bàn giao liên tục trong môi trường production, nhóm của bạn sẽ luôn tự hào vì đã đóng góp vào sứ mệnh tổ chức của bạn.
+    C) Các bản hoàn tác (rollbacks) có thể cần thiết từ hệ thống production của bạn sẽ ít cồng kềnh hơn.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+48. What is trunk in trunk based DevOps delivery?  
+    A) Developers collaborate on code in a single branch called “trunk”.  
+    B) Trunk is a special private branch in a developer workstation.  
+    C) Trunk is the process of merging code in DevOps deliveries.  
+    D) Trunk is a special source code version controlling system which stores mission critical special projects of your DevOps organization.  
+    **Trả lời đúng:** A
+    
+    48. Trunk trong continuous delivery dựa trên trunk là gì?
+    A) Các nhà phát triển cộng tác trên mã nguồn trong một nhánh duy nhất gọi là "trunk".
+    B) Trunk là một nhánh riêng đặc biệt trong máy trạm của nhà phát triển.
+    C) Trunk là quá trình hợp nhất mã nguồn trong các bản bàn giao DevOps.
+    D) Trunk là một hệ thống kiểm soát phiên bản mã nguồn đặc biệt lưu trữ các dự án đặc biệt quan trọng của tổ chức DevOps của bạn.
+    **Trả lời đúng:** A
+    
+49. Which one of the following is not one of the DevOps principles for good test automation?  
+    A) Test Automation should give quick and early feedback about your quality of work.  
+    B) Never mix test driven development (TDD) together with your test automation approach.  
+    C) Tests should generate consistent, deterministic and repeatable results provided same conditions for different test runs.  
+    D) With your test automation, avoid slow and periodic feedback. What you need is fast feedback whenever you or your developer attempts to check-in code to your trunk.  
+    **Trả lời đúng:** B
+    
+    49. Cái nào sau đây không phải là một trong những nguyên tắc DevOps để tự động hóa kiểm thử tốt?
+    A) Tự động hóa kiểm thử nên cung cấp phản hồi nhanh chóng và sớm về chất lượng công việc của bạn.
+    B) Không bao giờ kết hợp phát triển hướng kiểm thử (TDD) cùng với phương pháp tự động hóa kiểm thử của bạn.
+    C) Các kiểm thử nên tạo ra kết quả nhất quán, xác định và có thể lặp lại khi cung cấp cùng điều kiện cho các lần chạy kiểm thử khác nhau.
+    D) Với tự động hóa kiểm thử của bạn, hãy tránh phản hồi chậm và định kỳ. Cái bạn cần là phản hồi nhanh bất cứ khi nào bạn hoặc nhà phát triển của bạn cố gắng check-in mã nguồn vào trunk của bạn.
+    **Trả lời đúng:** B
+    
+50. Which one of following release patterns does not enable you to do low risk DevOps code deployments in your production systems?  
+    A) Canary Deployment Pattern (The Dark Launch).  
+    B) Blue-Green Deployment Pattern.  
+    C) Cluster Immune System Release Pattern.  
+    D) Big bang code deployments of fully tested and validated releases.  
+    **Trả lời đúng:** D
+    
+    50. Mô hình phát hành nào sau đây không cho phép bạn triển khai mã nguồn DevOps rủi ro thấp trong hệ thống production của bạn?
+    A) Mô hình triển khai Canary (Canary Deployment Pattern) (Dark Launch).
+    B) Mô hình triển khai Blue-Green (Blue-Green Deployment Pattern).
+    C) Mô hình phát hành Hệ thống Miễn dịch Cụm (Cluster Immune System Release Pattern).
+    D) Triển khai mã nguồn Big bang các bản phát hành đã được kiểm thử và xác thực đầy đủ.
+    **Trả lời đúng:** D
+    
+
+**Độ khó: 3**
+
+1. What is one of best techniques to convert normal changes into standard changes?  
+    A) Use your track record of successful automated deployments with standard changes.  
+    B) Negotiate with release managers.  
+    C) Publicly complain about bureaucracy and make everyone be aware of it.  
+    D) Make sure normal changes are very carefully deployed to your production systems.  
+    **Trả lời đúng:** A
+    
+    1. Một trong những kỹ thuật tốt nhất để chuyển đổi các thay đổi bình thường thành các thay đổi tiêu chuẩn là gì?
+    A) Sử dụng lịch sử triển khai tự động thành công với các thay đổi tiêu chuẩn của bạn.
+    B) Thương lượng với các quản lý phát hành.
+    C) Công khai phàn nàn về bộ máy quan liêu và làm cho mọi người biết về nó.
+    D) Đảm bảo rằng các thay đổi bình thường được triển khai rất cẩn thận lên hệ thống production của bạn.
+    **Trả lời đúng:** A
+    
+2. What is a widely used reusable asset to reinforce information security of deliverables from your DevOps team?  
+    A) Data storage systems.  
+    B) Handling the logging of sensitive client information.  
+    C) Data transfer between clients and software.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    2. Tài sản có thể tái sử dụng nào được sử dụng rộng rãi để củng cố bảo mật thông tin của các sản phẩm bàn giao từ nhóm DevOps của bạn?
+    A) Hệ thống lưu trữ dữ liệu.
+    B) Xử lý việc ghi nhật ký thông tin nhạy cảm của khách hàng.
+    C) Truyền dữ liệu giữa khách hàng và phần mềm.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+3. What is not one of major benefits of designing a safe system of work culture?  
+    A) Complexity of your systems will be managed, so problems in designs and operations will be quickly detected.  
+    B) DevOps team does no longer need to be careful and mindful to ensure quality.  
+    C) Problems are quickly resolved while they are small. Resolving problems will result in spontaneous construction of new organizational knowledge and experience.  
+    D) Leaders in your DevOps organization develop other leaders who create and continuously improve safe systems of work.  
+    **Trả lời đúng:** B
+    
+    3. Cái nào sau đây không phải là một trong những lợi ích chính của việc thiết kế một hệ thống văn hóa làm việc an toàn?
+    A) Độ phức tạp của hệ thống của bạn sẽ được quản lý, vì vậy các vấn đề trong thiết kế và vận hành sẽ được phát hiện nhanh chóng.
+    B) Nhóm DevOps không cần phải cẩn thận và chú ý để đảm bảo chất lượng nữa.
+    C) Các vấn đề được giải quyết nhanh chóng khi chúng còn nhỏ. Việc giải quyết vấn đề sẽ dẫn đến việc xây dựng kiến thức và kinh nghiệm tổ chức mới một cách tự phát.
+    D) Các nhà lãnh đạo trong tổ chức DevOps của bạn phát triển các nhà lãnh đạo khác, những người tạo ra và liên tục cải thiện các hệ thống làm việc an toàn.
+    **Trả lời đúng:** B
+    
+4. What is telemetry?  
+    A) Telemetry is a widely known SaaS tool to plan and execute DevOps projects.  
+    B) Telemetry is a communication tool used by DevOps teams at geographically distributed locations.  
+    C) Telemetry is the process of recording the behaviour of your systems.  
+    D) Telemetry is a tool to design, code and execute automated unit tests.  
+    **Trả lời đúng:** C
+    
+    4. Telemetry là gì?
+    A) Telemetry là một công cụ SaaS nổi tiếng được sử dụng để lập kế hoạch và thực hiện các dự án DevOps.
+    B) Telemetry là một công cụ giao tiếp được sử dụng bởi các nhóm DevOps ở các địa điểm phân tán về mặt địa lý.
+    C) Telemetry là quá trình ghi lại hành vi của hệ thống của bạn.
+    D) Telemetry là một công cụ để thiết kế, viết mã và thực hiện các kiểm thử đơn vị tự động.
+    **Trả lời đúng:** C
+    
+5. In terms of fixing errors in your production systems what is the major benefit of using feature toggles embedded in configurations of your software applications?  
+    A) This is easiest way to fix a problem. It doesn’t require an urgent code deployment.  
+    B) You don’t have to very urgently correct erroneous pieces in your deployment.  
+    C) Your DevOps team can take time to properly identify root cause of an issue and improve their techniques to ensure such a problem will not likely happen again in the future.  
+    D) All above choices.  
+    **Trả lời đúng:** D
+    
+    5. Xét về việc sửa lỗi trong hệ thống production của bạn, lợi ích chính của việc sử dụng feature toggles (công tắc tính năng) được nhúng trong cấu hình ứng dụng phần mềm của bạn là gì?
+    A) Đây là cách dễ nhất để khắc phục sự cố. Nó không yêu cầu triển khai mã nguồn khẩn cấp.
+    B) Bạn không cần phải khẩn cấp sửa các phần sai sót trong triển khai của mình.
+    C) Nhóm DevOps của bạn có thể dành thời gian để xác định chính xác nguyên nhân gốc rễ của vấn đề và cải thiện kỹ thuật của họ để đảm bảo vấn đề như vậy không có khả năng xảy ra lại trong tương lai.
+    D) Tất cả các lựa chọn trên.
+    **Trả lời đúng:** D
+    
+6. Which statement best describes the relationship between DevOps and Continuous Delivery?  
+    A) DevOps and Continuous Delivery are the same thing.  
+    B) DevOps and Continuous Delivery are not related and are mutually exclusive.  
+    C) DevOps and Continuous Delivery share a background in Agile methods and LEAN thinking.  
+    D) DevOps and Continuous Delivery share common processes.  
+    **Trả lời đúng:** C
+    
+    6. Câu phát biểu nào mô tả tốt nhất mối quan hệ giữa DevOps và Continuous Delivery?
+    A) DevOps và Continuous Delivery là cùng một thứ.
+    B) DevOps và Continuous Delivery không liên quan và loại trừ lẫn nhau.
+    C) DevOps và Continuous Delivery chia sẻ nền tảng trong các phương pháp Agile và tư duy LEAN.
+    D) DevOps và Continuous Delivery chia sẻ các quy trình chung.
+    **Trả lời đúng:** C
+    
+7. Is this statement correct? “DevOps is more than just a tool or a process change, it inherently requires an organisational culture shift”  
+    A) Yes, there needs to be cultural shift within the organisation across all stakeholders to ensure a successful adoption of a DevOps approach.  
+    B) Yes, but the most up to date tools and LEAN processes need to be in place to drive an organisational culture shift.  
+    C) No, DevOps is all about the tools.  
+    D) No, cultural shift will occur when staff are using the most up to date tools and LEAN processes.  
+    **Trả lời đúng:** A
+    
+    7. Câu phát biểu này có đúng không? "DevOps không chỉ là một công cụ hay thay đổi quy trình, nó vốn dĩ đòi hỏi sự thay đổi văn hóa tổ chức"
+    A) Có, cần phải có sự thay đổi văn hóa trong tổ chức trên tất cả các bên liên quan để đảm bảo áp dụng thành công phương pháp DevOps.
+    B) Có, nhưng các công cụ cập nhật nhất và các quy trình LEAN cần phải được áp dụng để thúc đẩy sự thay đổi văn hóa tổ chức.
+    C) Không, DevOps chỉ là về các công cụ.
+    D) Không, sự thay đổi văn hóa sẽ xảy ra khi nhân viên sử dụng các công cụ cập nhật nhất và các quy trình LEAN.
+    **Trả lời đúng:** A
+    
+8. Which of these statements are correct about DevOps?  
+    1- DevOps and ITIL® don’t mix  
+    2- DevOps won’t work in regulated industries  
+    3- DevOps won’t work with Outsourced Development  
+    4- You must use cloud technologies  
+    A) 2, 3 and 4 only  
+    B) 3 and 4 only  
+    C) All of the above are correct  
+    D) All of the above are incorrect  
+    **Trả lời đúng:** D
+    
+    8. Những câu phát biểu nào sau đây là đúng về DevOps?
+    1- DevOps và ITIL® không kết hợp
+    2- DevOps sẽ không hoạt động trong các ngành công nghiệp được quản lý chặt chẽ
+    3- DevOps sẽ không hoạt động với Phát triển thuê ngoài
+    4- Bạn phải sử dụng các công nghệ đám mây
+    A) Chỉ 2, 3 và 4
+    B) Chỉ 3 và 4
+    C) Tất cả các câu trên đều đúng
+    D) Tất cả các câu trên đều sai
+    **Trả lời đúng:** D
+    
+9. DevOps means ...  
+    A) Developers taking over all Operations tasks.  
+    B) Automating the process of software delivery and infrastructure changes.  
+    C) The collaboration and communication of both software developers and other information-technology (IProfessional while automating the process of software delivery and infrastructure changes.  
+    D) The collaboration and communication of just software developers and operations staff while automating the process software delivery and infrastructure changes.  
+    **Trả lời đúng:** C
+    
+    9. DevOps có nghĩa là ...
+    A) Các nhà phát triển đảm nhận tất cả các tác vụ Vận hành.
+    B) Tự động hóa quy trình phân phối phần mềm và thay đổi hạ tầng.
+    C) Sự hợp tác và giao tiếp của cả nhà phát triển phần mềm và các chuyên gia công nghệ thông tin (IT Professional) khác trong khi tự động hóa quy trình phân phối phần mềm và thay đổi hạ tầng.
+    D) Sự hợp tác và giao tiếp chỉ của nhà phát triển phần mềm và nhân viên vận hành trong khi tự động hóa quy trình phân phối phần mềm và thay đổi hạ tầng.
+    **Trả lời đúng:** C
+    
+10. Which statement best describes the role of Change Management within a DevOps environment?  
+    A) Nothing changes as a risk adverse Change Management approach is paramount to IT and business success.  
+    B) The moment an app change is asked for, the request should go to the Developers to authorise. Once authorised it goes to Operations for implementation.  
+    C) The moment an app change is asked for, the request should go out to everyone on the team, no matter which IT discipline they work in.  
+    D) DevOps does not need Change Management?  
+    **Trả lời đúng:** C
+    
+    10. Câu phát biểu nào mô tả tốt nhất vai trò của Quản lý Thay đổi trong môi trường DevOps?
+    A) Không có gì thay đổi vì cách tiếp cận Quản lý Thay đổi né tránh rủi ro là tối quan trọng đối với sự thành công của IT và doanh nghiệp.
+    B) Khoảnh khắc một yêu cầu thay đổi ứng dụng được đưa ra, yêu cầu đó nên được chuyển đến các Nhà phát triển để cấp phép. Sau khi được cấp phép, nó chuyển đến Vận hành để triển khai.
+    C) Khoảnh khắc một yêu cầu thay đổi ứng dụng được đưa ra, yêu cầu đó nên được gửi đến mọi người trong nhóm, bất kể họ làm việc trong lĩnh vực IT nào.
+    D) DevOps không cần Quản lý Thay đổi?
+    **Trả lời đúng:** C
+    
+11. Which benefits of adopting a DevOps approach could be included in a business case to adopt a DevOps approach?  
+    1- Improved deployment frequency, which can lead to faster time to market  
+    2- Lower failure rate of new releases  
+    3- Shortened lead time between fixes  
+    4- Faster mean time to recovery in the event of a new release crashing or otherwise disabling the current system  
+    A) Just 1 and 3  
+    B) Just 1, 2 and 3  
+    C) 1, 2 and 3 but not 4  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    11. Những lợi ích nào của việc áp dụng phương pháp DevOps có thể được đưa vào hồ sơ kinh doanh để áp dụng phương pháp DevOps?
+    1- Tần suất triển khai được cải thiện, có thể dẫn đến thời gian đưa sản phẩm ra thị trường nhanh hơn
+    2- Tỷ lệ lỗi của các bản phát hành mới thấp hơn
+    3- Thời gian chờ giữa các bản sửa lỗi được rút ngắn
+    4- Thời gian trung bình để phục hồi nhanh hơn trong trường hợp một bản phát hành mới bị treo hoặc vô hiệu hóa hệ thống hiện tại
+    A) Chỉ 1 và 3
+    B) Chỉ 1, 2 và 3
+    C) 1, 2 và 3 nhưng không bao gồm 4
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+12. Which statement best describes the goal of DevOps?  
+    A) One goal of DevOps is to establish an environment where Change Management does bot control application releases.  
+    B) One goal of DevOps is to establish an environment where releasing more reliable applications faster and more frequently can occur.  
+    C) One goal of DevOps is to establish an environment where application development perform all operations tasks.  
+    D) One goal of DevOps is to establish an environment where releasing applications is valued over the quality of the released application.  
+    **Trả lời đúng:** B
+    
+    12. Câu phát biểu nào mô tả tốt nhất mục tiêu của DevOps?
+    A) Một mục tiêu của DevOps là thiết lập một môi trường mà Quản lý Thay đổi không kiểm soát việc phát hành ứng dụng.
+    B) Một mục tiêu của DevOps là thiết lập một môi trường mà việc phát hành các ứng dụng đáng tin cậy hơn nhanh hơn và thường xuyên hơn có thể xảy ra.
+    C) Một mục tiêu của DevOps là thiết lập một môi trường mà phát triển ứng dụng thực hiện tất cả các tác vụ vận hành.
+    D) Một mục tiêu của DevOps là thiết lập một môi trường mà việc phát hành ứng dụng được coi trọng hơn chất lượng của ứng dụng đã phát hành.
+    **Trả lời đúng:** B
+    
+13. Agile and DevOps are similar but differ in a few important aspect.Which statement is correct?  
+    A) Agile is a change of thinking whereas DevOps is actual organisation cultural change  
+    B) Agile is actual organisational cultural change whereas DevOps is a change of thinking.  
+    C) Agile is process driven whereas DevOps is role driven.  
+    D) Agile is role driven whereas DevOps is process driven  
+    **Trả lời đúng:** A
+    
+    13. Agile và DevOps tương tự nhau nhưng khác nhau ở một vài khía cạnh quan trọng. Câu phát biểu nào là đúng?
+    A) Agile là sự thay đổi tư duy trong khi DevOps là sự thay đổi văn hóa tổ chức thực sự
+    B) Agile là sự thay đổi văn hóa tổ chức thực sự trong khi DevOps là sự thay đổi tư duy.
+    C) Agile theo hướng quy trình trong khi DevOps theo hướng vai trò.
+    D) Agile theo hướng vai trò trong khi DevOps theo hướng quy trình.
+    **Trả lời đúng:** A
+    
+14. The development teams that support the Agile approach to DevOps must include staff from the operations teams to ensure:  
+    1- That stability is prioritised over creativity  
+    2- Operational considerations are prioritised over stability  
+    3- Operational considerations are taken into account  
+    4- The resultant designs of the systems will fit nicely into the business as usual environment  
+    A) 1 and 2 Only  
+    B) 2 and 3 Only  
+    C) 3 and 4 Only  
+    D) 4 Only  
+    **Trả lời đúng:** C
+    
+    14. Các nhóm phát triển hỗ trợ cách tiếp cận Agile đối với DevOps phải bao gồm nhân viên từ các nhóm vận hành để đảm bảo:
+    1- Sự ổn định được ưu tiên hơn sự sáng tạo
+    2- Các xem xét về vận hành được ưu tiên hơn sự ổn định
+    3- Các xem xét về vận hành được tính đến
+    4- Các thiết kế kết quả của hệ thống sẽ phù hợp một cách suôn sẻ vào môi trường kinh doanh thông thường
+    A) Chỉ 1 và 2
+    B) Chỉ 2 và 3
+    C) Chỉ 3 và 4
+    D) Chỉ 4
+    **Trả lời đúng:** C
+    
+15. The adoption of DevOps is being driven by factors such as:  
+    1- Use of Agile and other development processes and methodologies  
+    2- Demand for an increased rate of production releases from application and business unit stakeholders  
+    3- Wide availability of virtualised and cloud infrastructure from internal and external providers  
+    4- Increased usage of data centre automation and configuration management tools  
+    Which factors are correct?  
+    A) 1, 2 and 3 only  
+    B) 2 and 3 only  
+    C) 2, 3 and 4 only  
+    D) All of the above  
+    **Trả lời đúng:** D
+    
+    15. Việc áp dụng DevOps đang được thúc đẩy bởi các yếu tố như:
+    1- Sử dụng Agile và các quy trình và phương pháp phát triển khác
+    2- Nhu cầu tăng tốc độ phát hành production từ các bên liên quan của ứng dụng và đơn vị kinh doanh
+    3- Tính khả dụng rộng rãi của hạ tầng ảo hóa và đám mây từ các nhà cung cấp nội bộ và bên ngoài
+    4- Tăng cường sử dụng các công cụ tự động hóa trung tâm dữ liệu và quản lý cấu hình
+    Những yếu tố nào là đúng?
+    A) Chỉ 1, 2 và 3
+    B) Chỉ 2 và 3
+    C) Chỉ 2, 3 và 4
+    D) Tất cả các lựa chọn trên
+    **Trả lời đúng:** D
+    
+16. A company has formed DevOps teams who will work with SQL databases. These teams currently work closely with DBAs who are from the Windows platform and are responsible for SQL. Should these DBAs become part of the DevOps teams?  
+    A) No, the DevOps teams have to focus on knowledge transfer to avoid creating too big teams.  
+    B) No, the teams should remain separate for security reasons.  
+    C) Yes, the DevOps teams and the DBAs are already working closely with each other.  
+    D) Yes, only the DBAs have access to the databases.  
+    **Trả lời đúng:** A
+    
+    16. Một công ty đã thành lập các nhóm DevOps sẽ làm việc với cơ sở dữ liệu SQL. Các nhóm này hiện đang làm việc chặt chẽ với các DBA (Quản trị viên cơ sở dữ liệu) từ nền tảng Windows và chịu trách nhiệm về SQL. Liệu các DBA này có nên trở thành một phần của các nhóm DevOps không?
+    A) Không, các nhóm DevOps phải tập trung vào việc chuyển giao kiến thức để tránh tạo ra các nhóm quá lớn.
+    B) Không, các nhóm nên duy trì riêng biệt vì lý do bảo mật.
+    C) Có, các nhóm DevOps và các DBA đã làm việc chặt chẽ với nhau.
+    D) Có, chỉ các DBA mới có quyền truy cập vào cơ sở dữ liệu.
+    **Trả lời đúng:** A
+    
+17. You are a DevOps Coach in an organization. You overhear a conversation between two team members at the coffee machine. They talk about another team member that he/she will not perform very well. Consequently, it slows down the entire team in reaching the team goals. What will you do as a DevOps Coach?  
+    A) Approach the two team members and ask them to name the underperforming team member. 2. Go to the person and have a conversation with him/her to find the cause of underperformance along with its solution.  
+    B) Approach the two team members and ask them to name the underperforming team member. 2. Tell the manager of the person to take the required actions as it is his/her responsibility to improve the performance.  
+    C) Do nothing as a DevOps team is a self-organizing team. Therefore, they should be left alone and figure it out the solution themselves.  
+    D) Urge the two team members to discuss the problem with the concerned person according to the rules of giving feedback and work together on a solution.  
+    **Trả lời đúng:** D
+    
+    17. Bạn là một Huấn luyện viên DevOps trong một tổ chức. Bạn tình cờ nghe cuộc trò chuyện giữa hai thành viên nhóm tại máy pha cà phê. Họ nói về một thành viên nhóm khác rằng người đó sẽ không hoạt động tốt. Do đó, điều này làm chậm toàn bộ nhóm trong việc đạt được mục tiêu của nhóm. Bạn sẽ làm gì với tư cách là một Huấn luyện viên DevOps?
+    A) Tiếp cận hai thành viên nhóm và yêu cầu họ nêu tên thành viên nhóm hoạt động kém. 2. Đến gặp người đó và trò chuyện với họ để tìm nguyên nhân của việc hoạt động kém cùng với giải pháp.
+    B) Tiếp cận hai thành viên nhóm và yêu cầu họ nêu tên thành viên nhóm hoạt động kém. 2. Nói với quản lý của người đó thực hiện các hành động cần thiết vì đó là trách nhiệm của họ để cải thiện hiệu suất.
+    C) Không làm gì vì một nhóm DevOps là một nhóm tự tổ chức. Do đó, họ nên được để yên và tự tìm ra giải pháp.
+    D) Khuyến khích hai thành viên nhóm thảo luận vấn đề với người liên quan theo các quy tắc đưa ra phản hồi và cùng nhau tìm giải pháp.
+    **Trả lời đúng:** D
+    
+18. Why is Mission Command a more successful way of steering DevOps teams?  
+    A) It enhances product quality through discipline.  
+    B) It facilitates fast and effective team results through autonomy.  
+    C) It focuses on success.  
+    D) It helps finding the right solution that is most effective to deliver customer value.  
+    **Trả lời đúng:** B
+    
+    18. Tại sao Mission Command (Lệnh theo Nhiệm vụ) là cách chỉ đạo các nhóm DevOps thành công hơn?
+    A) Nó nâng cao chất lượng sản phẩm thông qua kỷ luật.
+    B) Nó tạo điều kiện cho kết quả nhóm nhanh chóng và hiệu quả thông qua quyền tự chủ.
+    C) Nó tập trung vào thành công.
+    D) Nó giúp tìm ra giải pháp đúng đắn hiệu quả nhất để mang lại giá trị cho khách hàng.
+    **Trả lời đúng:** B
+    
+19. Consider the following statements about the voice of customer:  
+    • Assertion: Customer Value is time dependent.  
+    • Reason: Requirements and wishes change over time with new insights and expectations.  
+    Select the correct option considering the preceding assertion and reason.  
+    A) Assertion and Reason are correct, and Reason strongly supports Assertion.  
+    B) Assertion and Reason are correct, but Reason does not support Assertion.  
+    C) Assertion and Reason are incorrect.  
+    D) Assertion is incorrect, and hence Reason does not make any sense  
+    **Trả lời đúng:** A
+    
+    19. Hãy xem xét các phát biểu sau về tiếng nói của khách hàng:
+    • Khẳng định (Assertion): Giá trị của khách hàng phụ thuộc vào thời gian.
+    • Lý do (Reason): Các yêu cầu và mong muốn thay đổi theo thời gian với những hiểu biết và kỳ vọng mới.
+    Chọn lựa chọn đúng dựa trên khẳng định và lý do trên.
+    A) Khẳng định và Lý do đều đúng, và Lý do hỗ trợ mạnh mẽ Khẳng định.
+    B) Khẳng định và Lý do đều đúng, nhưng Lý do không hỗ trợ Khẳng định.
+    C) Khẳng định và Lý do đều sai.
+    D) Khẳng định sai, do đó Lý do không có ý nghĩa gì.
+    **Trả lời đúng:** A
+    
+20. A process consists of the following three steps:  
+    • Step 1: 9 seconds  
+    • Step 2: 6 seconds  
+    • Step 3: 10 seconds  
+    There are 15 items in the process.  
+    What will be the Exit Rate (ER), Work in Progress (WIP), and Process Lead Time (PLT) for the process?  
+    A) ER = 6 per minute, WIP = 6, PLT = 30 seconds  
+    B) ER = 6 per minute, WIP = 15, PLT = 150 seconds  
+    C) ER = 12 per minute, WIP = 10, PLT = 30 seconds  
+    D) ER = 12 per minute, WIP = 15, PLT = 150 seconds  
+    **Trả lời đúng:** B
+    
+    20. Một quy trình bao gồm ba bước sau:
+    • Bước 1: 9 giây
+    • Bước 2: 6 giây
+    • Bước 3: 10 giây
+    Có 15 mục trong quy trình.
+    Tỷ lệ xuất (Exit Rate - ER), Công việc đang tiến hành (Work in Progress - WIP) và Thời gian chờ xử lý (Process Lead Time - PLT) cho quy trình sẽ là bao nhiêu?
+    A) ER = 6 mục mỗi phút, WIP = 6, PLT = 30 giây
+    B) ER = 6 mục mỗi phút, WIP = 15, PLT = 150 giây
+    C) ER = 12 mục mỗi phút, WIP = 10, PLT = 30 giây
+    D) ER = 12 mục mỗi phút, WIP = 15, PLT = 150 giây
+    **Trả lời đúng:** B
+    
+21. What are the three aspects of behavior that help overcome the five dysfunctions of the Lencioni’s model?  
+    A) Personal Leadership, Conflicts, and Mutual Commitment  
+    B) Personal Leadership, Ownership, and Role Model Behavior  
+    C) Personal Leadership, Trust, and Role Model Behavior  
+    D) Shared Responsibility, Ownership, and Role Model Behavior  
+    **Trả lời đúng:** B
+    
+    21. Ba khía cạnh hành vi nào giúp vượt qua năm rối loạn chức năng của mô hình Lencioni?
+    A) Lãnh đạo Cá nhân, Xung đột và Cam kết Chung
+    B) Lãnh đạo Cá nhân, Trách nhiệm (Ownership) và Hành vi Mẫu mực
+    C) Lãnh đạo Cá nhân, Tin cậy và Hành vi Mẫu mực
+    D) Trách nhiệm Chia sẻ, Trách nhiệm (Ownership) và Hành vi Mẫu mực
+    **Trả lời đúng:** B
+    
+22. What aspects will you consider when defining a purpose for a company?  
+    1. Inspiring and Motivating  
+    2. Broad and Clear  
+    3. Concise Formulation  
+    4. Achievable  
+    5. Long-term Goals  
+    Select the correct option considering the preceding aspects.  
+    A) 1 and 2  
+    B) 1 and 3  
+    C) 1 and 4  
+    D) 1 and 5  
+    **Trả lời đúng:** B
+    
+    22. Bạn sẽ xem xét những khía cạnh nào khi định nghĩa mục đích cho một công ty?
+    1. Truyền cảm hứng và Động lực
+    2. Rộng và Rõ ràng
+    3. Công thức Ngắn gọn
+    4. Có thể đạt được
+    5. Mục tiêu Dài hạn
+    Chọn lựa chọn đúng dựa trên các khía cạnh trên.
+    A) 1 và 2
+    B) 1 và 3
+    C) 1 và 4
+    D) 1 và 5
+    **Trả lời đúng:** B
+    
+23. What should be the value category of refactoring?  
+    A) VOB  
+    B) VOC  
+    C) VOP  
+    D) VOR  
+    **Trả lời đúng:** C
+    
+    23. Refactoring (tái cấu trúc mã nguồn) nên thuộc danh mục giá trị nào?
+    A) VOB (Value of Business)
+    B) VOC (Value of Customer)
+    C) VOP (Value of Process)
+    D) VOR (Value of Risk)
+    **Trả lời đúng:** C
+    
+24. What is the purpose of Kaizen?  
+    A) Detecting, analyzing, and fixing the problems  
+    B) Finding and solving root causes, allowing failures, and fixing these fast  
+    C) Finding and solving root causes and preventing problems to improve continuously  
+    D) Gaining insight into the workflow of a process and preventing problems to improve continuously  
+    **Trả lời đúng:** C
+    
+    24. Mục đích của Kaizen là gì?
+    A) Phát hiện, phân tích và sửa chữa các vấn đề
+    B) Tìm và giải quyết nguyên nhân gốc rễ, cho phép xảy ra lỗi và sửa chữa nhanh chóng
+    C) Tìm và giải quyết nguyên nhân gốc rễ và ngăn ngừa các vấn đề để cải tiến liên tục
+    D) Hiểu rõ quy trình làm việc và ngăn ngừa các vấn đề để cải tiến liên tục
+    **Trả lời đúng:** C
+    
+25. A DevOps team that is part of a cluster of DevOps teams in a Release Train gets a series of related incidents. They put the information together and formulate a problem. What should they do to handle the problem?  
+    A) The Product Owner of the team puts the problem on the Product Backlog to get prioritized.  
+    B) The Scrum Master relates the problem to the scrum of scrums to see which team has the time to solve the issue.  
+    C) The team organizes a VSM session to analyze the problem.  
+    D) The team puts the problem on the sprint backlog as it relates to incidents that are being reported by several customers.  
+    **Trả lời đúng:** A
+    
+    25. Một nhóm DevOps là một phần của cụm các nhóm DevOps trong một Release Train nhận được một loạt các sự cố liên quan. Họ tập hợp thông tin lại và đưa ra một vấn đề. Họ nên làm gì để xử lý vấn đề này?
+    A) Product Owner của nhóm đưa vấn đề lên Product Backlog để được ưu tiên.
+    B) Scrum Master liên hệ vấn đề với scrum của các scrum để xem nhóm nào có thời gian giải quyết vấn đề.
+    C) Nhóm tổ chức một phiên VSM (Value Stream Mapping) để phân tích vấn đề.
+    D) Nhóm đưa vấn đề lên sprint backlog vì nó liên quan đến các sự cố được báo cáo bởi nhiều khách hàng.
+    **Trả lời đúng:** A
+    
+26. How can a DevOps Leader ensure that people are open to change?  
+    1. Let them experience the change by changing the rulesof the company.  
+    2. Inspire people with a clear vision.  
+    3. Tell people skills, knowledge, and experience are not relevant in the new era. Therefore, they should change their attitude and behavior.  
+    4. Empower the people even when they fail. By doing so, stimulate fast learning is stimulated.  
+    5. Organize a training on “Change is the new stability” so that people can pick it up soon.  
+    6. Offer them trust and support. Select the correct option considering the preceding statements.  
+    A) 1, 2, 3, and 4  
+    B) 1, 2, 4, and 5  
+    C) 2, 4, and 5  
+    D) 2, 4, and 6  
+    **Trả lời đúng:** D
+    
+    26. Làm thế nào một Lãnh đạo DevOps có thể đảm bảo mọi người cởi mở với sự thay đổi?
+    1. Cho họ trải nghiệm sự thay đổi bằng cách thay đổi quy tắc của công ty.
+    2. Truyền cảm hứng cho mọi người bằng một tầm nhìn rõ ràng.
+    3. Nói với mọi người rằng kỹ năng, kiến thức và kinh nghiệm không còn phù hợp trong kỷ nguyên mới. Do đó, họ nên thay đổi thái độ và hành vi của mình.
+    4. Trao quyền cho mọi người ngay cả khi họ thất bại. Bằng cách đó, kích thích việc học hỏi nhanh chóng được khuyến khích.
+    5. Tổ chức một buổi đào tạo về "Thay đổi là sự ổn định mới" để mọi người có thể tiếp thu sớm.
+    6. Cung cấp cho họ sự tin tưởng và hỗ trợ. Chọn lựa chọn đúng dựa trên các phát biểu trên.
+    A) 1, 2, 3 và 4
+    B) 1, 2, 4 và 5
+    C) 2, 4 và 5
+    D) 2, 4 và 6
+    **Trả lời đúng:** D
+    
+27. Your team is busy with the implementation of an improvement of a Kaizen Event. Unfortunately, measurements show that the chosen solution does not produce the estimated results. What will you do now?  
+    A) Analyze the situation considering the problem, the chosen solution, measurements, and expectations. Based on the analysis, design and take the next steps.  
+    B) Concentrate on a different problem as the measurements show that the solution is not feasible.  
+    C) Look at the way of measuring. The type of measurement might not be appropriate to show positive results.  
+    D) Try a different solution as the current one does not meet the expectations.  
+    **Trả lời đúng:** A
+    
+    27. Nhóm của bạn đang bận rộn với việc triển khai một cải tiến của Sự kiện Kaizen. Thật không may, các phép đo cho thấy giải pháp đã chọn không tạo ra kết quả như ước tính. Bây giờ bạn sẽ làm gì?
+    A) Phân tích tình huống xem xét vấn đề, giải pháp đã chọn, các phép đo và kỳ vọng. Dựa trên phân tích, thiết kế và thực hiện các bước tiếp theo.
+    B) Tập trung vào một vấn đề khác vì các phép đo cho thấy giải pháp không khả thi.
+    C) Xem xét cách đo lường. Loại phép đo có thể không phù hợp để hiển thị kết quả tích cực.
+    D) Thử một giải pháp khác vì giải pháp hiện tại không đáp ứng kỳ vọng.
+    **Trả lời đúng:** A
+    
+28. Which competency supports the flow of value through the Release dimension?  
+    A) Release  
+    B) Monitor  
+    C) Respond  
+    D) Deploy  
+    **Trả lời đúng:** A
+    
+    28. Năng lực nào hỗ trợ luồng giá trị thông qua chiều Release (Phát hành)?
+    A) Phát hành (Release)
+    B) Giám sát (Monitor)
+    C) Phản hồi (Respond)
+    D) Triển khai (Deploy)
+    **Trả lời đúng:** A
+    
+29. What is BDD?  
+    A) Behavior-Driven Development  
+    B) Business-Driven Development  
+    C) Benchmark-Driven Development  
+    D) Backlog-Driven Development  
+    **Trả lời đúng:** A
+    
+    29. BDD là gì?
+    A) Phát triển hướng hành vi (Behavior-Driven Development)
+    B) Phát triển hướng kinh doanh (Business-Driven Development)
+    C) Phát triển hướng chuẩn mực (Benchmark-Driven Development)
+    D) Phát triển hướng Backlog (Backlog-Driven Development)
+    **Trả lời đúng:** A
+    
+30. What is an activity ratio?  
+    A) The ratio of lead time to process time  
+    B) The ratio of lead time to throughput  
+    C) The ratio of lead time to tact time  
+    D) The ratio of process time to lead time  
+    **Trả lời đúng:** D
+    
+    30. Tỷ lệ hoạt động (activity ratio) là gì?
+    A) Tỷ lệ thời gian chờ (lead time) so với thời gian xử lý (process time)
+    B) Tỷ lệ thời gian chờ (lead time) so với thông lượng (throughput)
+    C) Tỷ lệ thời gian chờ (lead time) so với thời gian nhịp (tact time)
+    D) Tỷ lệ thời gian xử lý (process time) so với thời gian chờ (lead time)
+    **Trả lời đúng:** D
+    
+31. Which sub-dimension supports the flow of value through the Release dimension?  
+    A) Measure  
+    B) Monitor  
+    C) Respond  
+    D) Deploy  
+    **Trả lời đúng:** A
+    
+    31. Tiểu chiều nào hỗ trợ luồng giá trị thông qua chiều Release (Phát hành)?
+    A) Đo lường (Measure)
+    B) Giám sát (Monitor)
+    C) Phản hồi (Respond)
+    D) Triển khai (Deploy)
+    **Trả lời đúng:** A
+    
+32. What is the ultimate goal of DevOps in SAFe?  
+    A) To clarify program and team roles  
+    B) To enable Agile Release Trains to deliver value more frequently  
+    C) To combine Development and Operations groups into one team  
+    D) To automate the integration, testing and deployment of features  
+    **Trả lời đúng:** B
+    
+    32. Mục tiêu cuối cùng của DevOps trong SAFe là gì?
+    A) Làm rõ các vai trò của chương trình và nhóm
+    B) Cho phép các Agile Release Train bàn giao giá trị thường xuyên hơn
+    C) Kết hợp các nhóm Phát triển và Vận hành thành một nhóm duy nhất
+    D) Tự động hóa việc tích hợp, kiểm thử và triển khai các tính năng
+    **Trả lời đúng:** B
+    
+33. What do the 'C' and the 'R' stand for in a CALMR approach to DevOps?  
+    A) Culture and Recovery  
+    B) Culture and Resilience  
+    C) Collaboration and Recovery  
+    D) Continuous and Resilience  
+    **Trả lời đúng:** B
+    
+    33. Chữ 'C' và 'R' trong cách tiếp cận CALMR đối với DevOps là viết tắt của gì?
+    A) Văn hóa và Phục hồi
+    B) Văn hóa và Khả năng phục hồi (Resilience)
+    C) Hợp tác và Phục hồi
+    D) Liên tục và Khả năng phục hồi (Resilience)
+    **Trả lời đúng:** B
+    
+34. How is completeness and accuracy of a particular step in a value stream measured?  
+    A) Percent of work without any technical debt  
+    B) Work that is collaboratively completed by the team  
+    C) Percent of work that the next step can process as is  
+    D) Work completed and accepted by the Product Owner  
+    **Trả lời đúng:** C
+    
+    34. Tính hoàn chỉnh và chính xác của một bước cụ thể trong luồng giá trị được đo lường như thế nào?
+    A) Tỷ lệ phần trăm công việc không có nợ kỹ thuật nào
+    B) Công việc được nhóm hoàn thành một cách hợp tác
+    C) Tỷ lệ phần trăm công việc mà bước tiếp theo có thể xử lý nguyên trạng
+    D) Công việc đã hoàn thành và được Product Owner chấp nhận
+    **Trả lời đúng:** C
+    
+35. Within the Explore dimension, what helps gather more feedback about customer needs?  
+    A) Research  
+    B) Collaborate  
+    C) Synthesize  
+    D) Hypothesize  
+    **Trả lời đúng:** A
+    
+    35. Trong chiều Explore (Khám phá), điều gì giúp thu thập thêm phản hồi về nhu cầu của khách hàng?
+    A) Nghiên cứu (Research)
+    B) Hợp tác (Collaborate)
+    C) Tổng hợp (Synthesize)
+    D) Đưa ra giả thuyết (Hypothesize)
+    **Trả lời đúng:** A
+    
+36. Which DevOps principle focuses on product and service thinking?  
+    A) Customer-centric action  
+    B) Continuous Improvement  
+    C) Create with the end in mind  
+    D) Automate everything you can  
+    **Trả lời đúng:** C
+    
+    36. Nguyên tắc DevOps nào tập trung vào tư duy sản phẩm và dịch vụ?
+    A) Hành động hướng khách hàng
+    B) Cải tiến liên tục
+    C) Tạo ra với mục tiêu cuối cùng trong tâm trí
+    D) Tự động hóa mọi thứ bạn có thể
+    **Trả lời đúng:** C
+    
+37. An organization maintains an independent and autonomous team for each of its serviceWhat is a possible disadvantage of this type of organization structure?  
+    A) Quality of delivered features will be low.  
+    B) Implementation of changes within a team is slow.  
+    C) Reuse of skills within the organization is limited.  
+    D) Waiting time for processing the service request is high.  
+    **Trả lời đúng:** C
+    
+    37. Một tổ chức duy trì một nhóm độc lập và tự quản cho mỗi dịch vụ của mình. Nhược điểm tiềm ẩn của loại cấu trúc tổ chức này là gì?
+    A) Chất lượng của các tính năng được bàn giao sẽ thấp.
+    B) Việc thực hiện các thay đổi trong một nhóm chậm.
+    C) Việc tái sử dụng kỹ năng trong tổ chức bị hạn chế.
+    D) Thời gian chờ xử lý yêu cầu dịch vụ cao.
+    **Trả lời đúng:** C
+    
+38. What type of mindset is the core of a DevOps culture?  
+    A) Service Mindset  
+    B) Skill Mindset  
+    C) People Mindset  
+    D) Automation Mindset  
+    **Trả lời đúng:** A
+    
+    38. Loại tư duy nào là cốt lõi của văn hóa DevOps?
+    A) Tư duy Dịch vụ (Service Mindset)
+    B) Tư duy Kỹ năng (Skill Mindset)
+    C) Tư duy Con người (People Mindset)
+    D) Tư duy Tự động hóa (Automation Mindset)
+    **Trả lời đúng:** A
+    
+39. What is NOT an appropriate predictor of IT performance in a DevOps environment?  
+    A) Changes approved outside of the team  
+    B) High-trust organizational culture  
+    C) Proactive monitoring  
+    D) Version control of all artifacts  
+    **Trả lời đúng:** A
+    
+    39. Cái nào KHÔNG phải là một chỉ số dự báo phù hợp về hiệu suất IT trong môi trường DevOps?
+    A) Các thay đổi được phê duyệt bên ngoài nhóm
+    B) Văn hóa tổ chức tin cậy cao
+    C) Giám sát chủ động
+    D) Kiểm soát phiên bản của tất cả các tạo phẩm
+    **Trả lời đúng:** A
+    
+40. Erik is working in a Product team (or Business System team) specialized in delivering a specific IT-related product for the Sales departmenWhich of the following types of activities will most likely be recurring in the agendas of Erik’s team?  
+    A) Many handovers moments with other departments.  
+    B) Meetings on the utilization of the specialized resources within the organization.  
+    C) Monthly release meetings for the bi-monthly release.  
+    D) Attending the product demo meeting.  
+    **Trả lời đúng:** D
+    
+    40. Erik đang làm việc trong một nhóm Sản phẩm (hoặc nhóm Hệ thống Kinh doanh) chuyên cung cấp một sản phẩm liên quan đến IT cụ thể cho bộ phận Bán hàng. Loại hoạt động nào sau đây có nhiều khả năng lặp lại trong lịch trình của nhóm Erik?
+    A) Nhiều khoảnh khắc bàn giao với các bộ phận khác.
+    B) Các cuộc họp về việc sử dụng các nguồn lực chuyên biệt trong tổ chức.
+    C) Các cuộc họp phát hành hàng tháng cho bản phát hành hai tháng một lần.
+    D) Tham dự cuộc họp demo sản phẩm.
+    **Trả lời đúng:** D
+    
+41. What type of tasks are characterized by low task variability and high task analyzability?  
+    A) Routine  
+    B) Craft  
+    C) Engineering  
+    D) Non-Routine  
+    **Trả lời đúng:** A
+    
+    41. Loại tác vụ nào được đặc trưng bởi tính biến thiên công việc thấp và khả năng phân tích công việc cao?
+    A) Thường xuyên (Routine)
+    B) Nghề thủ công (Craft)
+    C) Kỹ thuật (Engineering)
+    D) Không thường xuyên (Non-Routine)
+    **Trả lời đúng:** A
+    
+42. Which of the following software delivery approaches focuses on smaller functional units instead of developing the complete software?  
+    A) Agile  
+    B) Iterative  
+    C) Lean  
+    D) Waterfall  
+    **Trả lời đúng:** A
+    
+    42. Phương pháp phân phối phần mềm nào sau đây tập trung vào các đơn vị chức năng nhỏ hơn thay vì phát triển phần mềm hoàn chỉnh?
+    A) Agile
+    B) Iterative (Lặp)
+    C) Lean (Tinh gọn)
+    D) Waterfall (Thác nước)
+    **Trả lời đúng:** A
+    
+43. What is the lifecycle of Story Mapping?  
+    A) 1. Establish a common overall goal  
+    2. Determine the end-to-end workflow  
+    3. Define a first marketable feature set  
+    4. Expand/improve the existing functionality  
+    B) 1. Establish a common overall goal  
+    5. Define activities  
+    6. Determine the end-to-end workflow  
+    7. Expand/improve the existing functionality  
+    C) 1. Establish a common overall goal  
+    8. Define work in progress  
+    9. Define activities  
+    10. Define a first marketable feature set  
+    11. Expand/improve the existing functionality  
+    D) 1. Establish a common overall goal  
+    12. Determine the end-to-end workflow  
+    13. Define activities  
+    14. Define a first marketable feature set  
+    15. Expand/improve the existing functionality  
+    **Trả lời đúng:** A
+    
+    43. Vòng đời của Story Mapping là gì?
+    A) 1. Thiết lập mục tiêu tổng thể chung
+    2. Xác định quy trình làm việc từ đầu đến cuối
+    3. Định nghĩa bộ tính năng có thể tiếp thị đầu tiên
+    4. Mở rộng/cải thiện chức năng hiện có
+    B) 1. Thiết lập mục tiêu tổng thể chung
+    5. Định nghĩa các hoạt động
+    6. Xác định quy trình làm việc từ đầu đến cuối
+    7. Mở rộng/cải thiện chức năng hiện có
+    C) 1. Thiết lập mục tiêu tổng thể chung
+    8. Định nghĩa công việc đang tiến hành
+    9. Định nghĩa các hoạt động
+    10. Định nghĩa bộ tính năng có thể tiếp thị đầu tiên
+    11. Mở rộng/cải thiện chức năng hiện có
+    D) 1. Thiết lập mục tiêu tổng thể chung
+    12. Xác định quy trình làm việc từ đầu đến cuối
+    13. Định nghĩa các hoạt động
+    14. Định nghĩa bộ tính năng có thể tiếp thị đầu tiên
+    15. Mở rộng/cải thiện chức năng hiện có
+    **Trả lời đúng:** A
+    
+44. The platform products control the freedom and restrictions for the DevOps Business System teams. Which cloud services classification poses the greatest number of restrictions when the customer aims for flexibility for tailoring the complete platform including hardware and software?  
+    A) On-Premise  
+    B) IaaS  
+    C) PaaS  
+    D) SaaS  
+    **Trả lời đúng:** D
+    
+    44. Các sản phẩm nền tảng kiểm soát sự tự do và hạn chế đối với các nhóm Hệ thống Kinh doanh DevOps. Phân loại dịch vụ đám mây nào đặt ra số lượng hạn chế lớn nhất khi khách hàng hướng tới sự linh hoạt trong việc tùy chỉnh toàn bộ nền tảng bao gồm cả phần cứng và phần mềm?
+    A) On-Premise
+    B) IaaS (Infrastructure as a Service)
+    C) PaaS (Platform as a Service)
+    D) SaaS (Software as a Service)
+    **Trả lời đúng:** D
+    
+45. How do the Service Level Management processes of the ITIL Service Design phase map in a DevOps organization?  
+    A) Aims at full autonomy and full responsibility for delivering a product (value) to the customer.  
+    B) Aims at full autonomy and full responsibility for delivering a product (value) to the customer.  
+    C) Brings new software live in a matter of minutes through automation.  
+    D) Maintains stable and fixed teams to avoid resourceswitching between projects., Manages changes through the same mechanisms used for aligning the business with IT.  
+    **Trả lời đúng:** A
+    
+    45. Các quy trình Quản lý Mức độ Dịch vụ (Service Level Management) của giai đoạn Thiết kế Dịch vụ ITIL ánh xạ như thế nào trong một tổ chức DevOps?
+    A) Hướng tới sự tự chủ hoàn toàn và trách nhiệm hoàn toàn trong việc cung cấp sản phẩm (giá trị) cho khách hàng.
+    B) Hướng tới sự tự chủ hoàn toàn và trách nhiệm hoàn toàn trong việc cung cấp sản phẩm (giá trị) cho khách hàng.
+    C) Đưa phần mềm mới hoạt động chỉ trong vài phút thông qua tự động hóa.
+    D) Duy trì các nhóm ổn định và cố định để tránh chuyển đổi tài nguyên giữa các dự án., Quản lý các thay đổi thông qua các cơ chế tương tự được sử dụng để căn chỉnh doanh nghiệp với IT.
+    **Trả lời đúng:** A
+    
+46. What is the difference between Continuous Delivery and Continuous Deployment?  
+    A) Continuous Delivery is a manual task, while Continuous Deployment is an automated task.  
+    B) Continuous Delivery has a manual release to production decision, while Continuous Deployment has releases automatically pushed to production.  
+    C) Continuous Delivery includes all steps of software development life cycle; Continuous Deployment may skip few steps such as validation and testing.  
+    D) Continuous Delivery means complete delivery of the application to customer; Continuous Deployment includes only deployment of the application in customer environment.  
+    **Trả lời đúng:** B
+    
+    46. Sự khác biệt giữa Continuous Delivery và Continuous Deployment là gì?
+    A) Continuous Delivery là một tác vụ thủ công, trong khi Continuous Deployment là một tác vụ tự động.
+    B) Continuous Delivery có quyết định phát hành thủ công lên môi trường production, trong khi Continuous Deployment có các bản phát hành được đẩy tự động lên môi trường production.
+    C) Continuous Delivery bao gồm tất cả các bước của vòng đời phát triển phần mềm; Continuous Deployment có thể bỏ qua một vài bước như xác thực và kiểm thử.
+    D) Continuous Delivery nghĩa là bàn giao hoàn chỉnh ứng dụng cho khách hàng; Continuous Deployment chỉ bao gồm việc triển khai ứng dụng trong môi trường khách hàng.
+    **Trả lời đúng:** B
+    
+47. What is NOT an aspect related to managing work in an organization?  
+    A) Attending scrum of scrums  
+    B) Using Feature Switches  
+    C) Using a scrum board to get members of the team on the same page  
+    D) Applying test automation  
+    **Trả lời đúng:** D
+    
+    47. Cái nào KHÔNG phải là một khía cạnh liên quan đến quản lý công việc trong một tổ chức?
+    A) Tham dự scrum của các scrum
+    B) Sử dụng Feature Switches (Công tắc tính năng)
+    C) Sử dụng bảng scrum để giúp các thành viên trong nhóm hiểu rõ cùng một vấn đề
+    D) Áp dụng tự động hóa kiểm thử
+    **Trả lời đúng:** D
+    
+48. What are the characteristics of people working in a DevOps based, product-focused organization?  
+    A) People are functionally organized.  
+    B) People know about business and IT and deliver work, thereby appealing to use any of a person’s skills and/or talents.  
+    C) People are specialist-oriented.  
+    D) People are assigned to multiple projects at once, for reasons related to resource optimization.  
+    **Trả lời đúng:** B
+    
+    48. Đặc điểm của những người làm việc trong một tổ chức tập trung vào sản phẩm dựa trên DevOps là gì?
+    A) Mọi người được tổ chức theo chức năng.
+    B) Mọi người hiểu biết về kinh doanh và IT, và bàn giao công việc, do đó khuyến khích sử dụng bất kỳ kỹ năng và/hoặc tài năng nào của một người.
+    C) Mọi người theo hướng chuyên gia.
+    D) Mọi người được phân công làm nhiều dự án cùng một lúc, vì các lý do liên quan đến tối ưu hóa tài nguyên.
+    **Trả lời đúng:** B
+    
+49. Which phrase fits BEST as a characteristic of a DevOps team, considering that the team is part of an antifragile organization?  
+    A) Employee First  
+    B) Honor Web-inspired value  
+    C) Minimum Viable Bureaucracy  
+    D) Self-management  
+    **Trả lời đúng:** D
+    
+    49. Cụm từ nào phù hợp NHẤT làm đặc điểm của một nhóm DevOps, khi xem xét rằng nhóm là một phần của tổ chức phản yếu (antifragile)?
+    A) Nhân viên là trên hết
+    B) Tôn vinh giá trị được truyền cảm hứng từ Web
+    C) Bộ máy quan liêu tối thiểu khả thi
+    D) Tự quản lý
+    **Trả lời đúng:** D
+    
+50. When should you move to the Improve phase of the DMAIC method?  
+    A) After collecting the related data and facts about the variables that can influence the problem  
+    B) After defining potential solutions to the problem  
+    C) After ensuring whether a particular solution works  
+    D) After understanding the causes of the problem  
+    **Trả lời đúng:** D
+    
+    50. Khi nào bạn nên chuyển sang giai đoạn Cải thiện (Improve) của phương pháp DMAIC?
+    A) Sau khi thu thập dữ liệu và sự kiện liên quan về các biến có thể ảnh hưởng đến vấn đề
+    B) Sau khi định nghĩa các giải pháp tiềm năng cho vấn đề
+    C) Sau khi đảm bảo rằng một giải pháp cụ thể hoạt động
+    D) Sau khi hiểu nguyên nhân của vấn đề
+    **Trả lời đúng:** D
+    
+
+**Độ khó: 4**
+
+1. In DevOps, Business System teams are autonomous teams, that “land” their application and infrastructure code onto a common platform. This common platform is maintained by a Platform team. What is correct about the responsibilities of these teams?  
+    A) The Platform team is always responsible for maintaining the product within its operational environment.  
+    B) When a product/service application is “landed” on the platform, the responsibility of the product/service shifts from the Business System teams to the Platform team.  
+    C) The Business System team is only responsible for the development phase of new services.  
+    D) The Business System teams have an end-to-end responsibility, there is no handover or transfer of responsibility and accountability.  
+    **Trả lời đúng:** D
+    
+    1. Trong DevOps, các nhóm Hệ thống Kinh doanh là các nhóm tự quản, họ "đặt" mã ứng dụng và hạ tầng của mình lên một nền tảng chung. Nền tảng chung này được duy trì bởi một nhóm Nền tảng (Platform team). Điều gì là đúng về trách nhiệm của các nhóm này?
+    A) Nhóm Nền tảng luôn chịu trách nhiệm duy trì sản phẩm trong môi trường vận hành của nó.
+    B) Khi một ứng dụng sản phẩm/dịch vụ được "đặt" lên nền tảng, trách nhiệm của sản phẩm/dịch vụ chuyển từ các nhóm Hệ thống Kinh doanh sang nhóm Nền tảng.
+    C) Nhóm Hệ thống Kinh doanh chỉ chịu trách nhiệm cho giai đoạn phát triển các dịch vụ mới.
+    D) Các nhóm Hệ thống Kinh doanh có trách nhiệm từ đầu đến cuối, không có việc bàn giao hoặc chuyển giao trách nhiệm và trách nhiệm giải trình.
+    **Trả lời đúng:** D
+    
+2. What is the main reason to know exactly who the customer is when setting up a Business Service team?  
+    A) To determine what value and functionalities should be delivered by the team  
+    B) To establish the required mix of skills and knowledge for the team  
+    C) To know what kind of work the team will be handling  
+    D) To understand the scope of the technology responsibility of the team  
+    **Trả lời đúng:** A
+    
+    2. Lý do chính để biết chính xác khách hàng là ai khi thiết lập một nhóm Dịch vụ Kinh doanh (Business Service team) là gì?
+    A) Để xác định giá trị và các chức năng nào nên được nhóm bàn giao
+    B) Để thiết lập sự kết hợp cần thiết về kỹ năng và kiến thức cho nhóm
+    C) Để biết loại công việc nào nhóm sẽ xử lý
+    D) Để hiểu phạm vi trách nhiệm công nghệ của nhóm
+    **Trả lời đúng:** A
+    
+3. Which DevOps principle appreciates measuring processes, people, and tools?  
+    A) Continuous improvement  
+    B) Create with the end in mind  
+    C) Cross-functional autonomous teams  
+    D) People responsibility  
+    **Trả lời đúng:** A
+    
+    3. Nguyên tắc DevOps nào coi trọng việc đo lường các quy trình, con người và công cụ?
+    A) Cải tiến liên tục
+    B) Tạo ra với mục tiêu cuối cùng trong tâm trí
+    C) Các nhóm tự quản đa chức năng
+    D) Trách nhiệm của con người
+    **Trả lời đúng:** A
+    
+4. Which role should ensure that user stories adhere to the Definition of Ready (DoR)?  
+    A) Product Owner  
+    B) Scrum Master  
+    C) Service Manager  
+    D) Scrum Team  
+    **Trả lời đúng:** D
+    
+    4. Vai trò nào nên đảm bảo rằng các câu chuyện người dùng tuân thủ Định nghĩa Sẵn sàng (DoR)?
+    A) Product Owner (Chủ sở hữu sản phẩm)
+    B) Scrum Master
+    C) Service Manager (Quản lý dịch vụ)
+    D) Scrum Team (Nhóm Scrum)
+    **Trả lời đúng:** D
+    
+5. John is the Product Owner and is helping his team to understand the product and the customer requirements. By doing so, which type of waste, visible to the customer, is likely to be eliminated?  
+    A) Defects  
+    B) Non-Utilized Skills  
+    C) Transportation  
+    D) Motion  
+    **Trả lời đúng:** A
+    
+    5. John là Product Owner và đang giúp nhóm của mình hiểu về sản phẩm và yêu cầu của khách hàng. Bằng cách làm như vậy, loại lãng phí nào, có thể nhìn thấy đối với khách hàng, có khả năng được loại bỏ?
+    A) Lỗi (Defects)
+    B) Kỹ năng không được sử dụng (Non-Utilized Skills)
+    C) Vận chuyển (Transportation)
+    D) Chuyển động (Motion)
+    **Trả lời đúng:** A
+    
+6. What are the appropriate characteristics of Continuous Delivery approach?  
+    1. Complex, but small number of releases  
+    2. A focus on cycle time reduction  
+    3. Resource-based management of the process  
+    4. Self-managed and responsive teams  
+    A) 1 and 3  
+    B) 2 and 4  
+    C) 2, 3, and 4  
+    D) 1, 2, 3, and 4  
+    **Trả lời đúng:** B
+    
+    6. Những đặc điểm phù hợp của phương pháp Continuous Delivery là gì?
+    1. Phức tạp, nhưng số lượng phát hành nhỏ
+    2. Tập trung vào việc giảm thời gian chu kỳ
+    3. Quản lý quy trình dựa trên tài nguyên
+    4. Các nhóm tự quản lý và phản ứng nhanh
+    A) 1 và 3
+    B) 2 và 4
+    C) 2, 3 và 4
+    D) 1, 2, 3 và 4
+    **Trả lời đúng:** B
+    
+7. What is the main benefit of automated provisioning?  
+    A) Flexible approach to ad-hoc system changes  
+    B) Focus on operational perspective to control infrastructure changes  
+    C) High speed delivery of new environments  
+    D) Variability in application environments  
+    **Trả lời đúng:** C
+    
+    7. Lợi ích chính của việc cung cấp tự động (automated provisioning) là gì?
+    A) Cách tiếp cận linh hoạt đối với các thay đổi hệ thống đột xuất
+    B) Tập trung vào góc độ vận hành để kiểm soát các thay đổi hạ tầng
+    C) Tốc độ cung cấp môi trường mới cao
+    D) Biến động trong môi trường ứng dụng
+    **Trả lời đúng:** C
+    
+8. What is correct about implementation of measurements within an organization?  
+    A) Defining good measurements are enough for business improvement.  
+    B) Differences in measurements can lead to confrontation within organization; so measurements should be avoided.  
+    C) Measurement of one aspect can often represent the overall business scenario.  
+    D) Organizations should establish a balanced view to confront the measurements and draw the right conclusion.  
+    **Trả lời đúng:** D
+    
+    8. Điều gì là đúng về việc triển khai các phép đo trong một tổ chức?
+    A) Việc định nghĩa các phép đo tốt là đủ để cải thiện kinh doanh.
+    B) Sự khác biệt trong các phép đo có thể dẫn đến đối đầu trong tổ chức; vì vậy nên tránh các phép đo.
+    C) Việc đo lường một khía cạnh thường có thể đại diện cho kịch bản kinh doanh tổng thể.
+    D) Các tổ chức nên thiết lập một góc nhìn cân bằng để đối mặt với các phép đo và rút ra kết luận đúng đắn.
+    **Trả lời đúng:** D
+    
+9. What is the correct characteristic for performance metrics?  
+    A) Performance metrics are output oriented.  
+    B) Performance metrics are difficult to measure.  
+    C) Performance metrics are easy to improve.  
+    D) Performance metrics are also known as leading indicators.  
+    **Trả lời đúng:** A
+    
+    9. Đặc điểm đúng cho các chỉ số hiệu suất là gì?
+    A) Các chỉ số hiệu suất theo hướng đầu ra.
+    B) Các chỉ số hiệu suất khó đo lường.
+    C) Các chỉ số hiệu suất dễ cải thiện.
+    D) Các chỉ số hiệu suất còn được gọi là các chỉ số dẫn đầu (leading indicators).
+    **Trả lời đúng:** A
+    
+10. Which model is used by Desired State Configuration (DSC) for specifying the configuration of systems?  
+    A) Declarative  
+    B) Imperative  
+    C) Procedural  
+    D) Sequential  
+    **Trả lời đúng:** A
+    
+    10. Mô hình nào được sử dụng bởi Desired State Configuration (DSC) để chỉ định cấu hình của hệ thống?
+    A) Khai báo (Declarative)
+    B) Mệnh lệnh (Imperative)
+    C) Thủ tục (Procedural)
+    D) Tuần tự (Sequential)
+    **Trả lời đúng:** A
+    
+11. What is the correct sequence of the four steps when providing feedback in according to the Feedback model?  
+    A) 1. Describe concrete observations.  
+    2. Explain what it does to you.  
+    3. Wait and listen to clarifying questions.  
+    4. Give concrete suggestions OR recognition/incentive.  
+    B) 1. Explain what it does to you.  
+    5. Describe concrete observations.  
+    6. Wait and listen to clarifying questions.  
+    7. Give concrete suggestions OR recognition/incentive.  
+    C) 1. Wait and listen to clarifying questions.  
+    8. Explain what it does to you.  
+    9. Describe concrete observations.  
+    10. Give concrete suggestions OR recognition/incentive.  
+    D) 1. Wait and listen to clarifying questions.  
+    11. Give concrete suggestions OR recognition/incentive.  
+    12. Describe concrete observations.  
+    13. Explain what it does to you.  
+    **Trả lời đúng:** A
+    
+    11. Trình tự đúng của bốn bước khi đưa ra phản hồi theo mô hình Phản hồi là gì?
+    A) 1. Mô tả các quan sát cụ thể.
+    2. Giải thích cảm giác của bạn.
+    3. Chờ và lắng nghe các câu hỏi làm rõ.
+    4. Đưa ra đề xuất cụ thể HOẶC công nhận/khuyến khích.
+    B) 1. Giải thích cảm giác của bạn.
+    5. Mô tả các quan sát cụ thể.
+    6. Chờ và lắng nghe các câu hỏi làm rõ.
+    7. Đưa ra đề xuất cụ thể HOẶC công nhận/khuyến khích.
+    C) 1. Chờ và lắng nghe các câu hỏi làm rõ.
+    8. Giải thích cảm giác của bạn.
+    9. Mô tả các quan sát cụ thể.
+    10. Đưa ra đề xuất cụ thể HOẶC công nhận/khuyến khích.
+    D) 1. Chờ và lắng nghe các câu hỏi làm rõ.
+    11. Đưa ra đề xuất cụ thể HOẶC công nhận/khuyến khích.
+    12. Mô tả các quan sát cụ thể.
+    13. Giải thích cảm giác của bạn.
+    **Trả lời đúng:** A
+    
+12. The development of new software and IT services consist of functional and non-functional requirements. From what point in the development process should the non-functional requirements be addressed, to be able to deliver software and services faster and better?  
+    A) From the initiation of the software development  
+    B) After the functional acceptance test by the customer representatives  
+    C) Simultaneous with the implementation of continuous delivery  
+    D) The non-functional requirements are of no concern to the customers  
+    **Trả lời đúng:** A
+    
+    12. Việc phát triển phần mềm và dịch vụ IT mới bao gồm các yêu cầu chức năng và phi chức năng. Từ điểm nào trong quy trình phát triển nên giải quyết các yêu cầu phi chức năng, để có thể bàn giao phần mềm và dịch vụ nhanh hơn và tốt hơn?
+    A) Từ khi khởi tạo việc phát triển phần mềm
+    B) Sau khi đại diện khách hàng thực hiện kiểm thử chấp nhận chức năng
+    C) Đồng thời với việc triển khai continuous delivery
+    D) Các yêu cầu phi chức năng không phải là mối quan tâm của khách hàng
+    **Trả lời đúng:** A
+    
+13. Which statement does NOT define DevOps?  
+    A) DevOps is a movement or practice that emphasizes collaboration and communication of both software developers and other Information Technology (IT) professionals.  
+    B) DevOps is a framework and job title that focuses on structured processes to organize flow between the Development and Operations teams.  
+    C) DevOps is about experiences, ideas, and culture.  
+    D) DevOps is an activity of optimizing the developmentto-operations value stream by creating an increasingly smooth, fast flow of application changes from development into operations.  
+    **Trả lời đúng:** B
+    
+    13. Câu nào KHÔNG định nghĩa DevOps?
+    A) DevOps là một phong trào hoặc thực hành nhấn mạnh sự hợp tác và giao tiếp của cả nhà phát triển phần mềm và các chuyên gia Công nghệ thông tin (IT) khác.
+    B) DevOps là một khung làm việc và chức danh công việc tập trung vào các quy trình có cấu trúc để tổ chức luồng công việc giữa các nhóm Phát triển và Vận hành.
+    C) DevOps là về kinh nghiệm, ý tưởng và văn hóa.
+    D) DevOps là hoạt động tối ưu hóa luồng giá trị từ phát triển đến vận hành bằng cách tạo ra một luồng thay đổi ứng dụng ngày càng mượt mà, nhanh chóng từ phát triển sang vận hành.
+    **Trả lời đúng:** B
+    
+14. What characteristics should an organization adopt to become a DevOps organization?  
+    1. Automation  
+    2. Product thinking  
+    3. Individual thinking  
+    4. Fail fast  
+    5. Problem avoidance  
+    6. Specialist roles  
+    A) 1, 2, and 4  
+    B) 1, 5, and 6  
+    C) 2, 3, and 4  
+    D) 3, 5, and 6  
+    **Trả lời đúng:** A
+    
+    14. Tổ chức nên áp dụng những đặc điểm nào để trở thành một tổ chức DevOps?
+    1. Tự động hóa
+    2. Tư duy sản phẩm
+    3. Tư duy cá nhân
+    4. Thất bại nhanh (Fail fast)
+    5. Tránh vấn đề
+    6. Các vai trò chuyên gia
+    A) 1, 2 và 4
+    B) 1, 5 và 6
+    C) 2, 3 và 4
+    D) 3, 5 và 6
+    **Trả lời đúng:** A
+    
+15. What does ‘resilience’ means with reference to IT architecture?  
+    A) Preparing systems for changed requirements  
+    B) Preparing systems for security threats  
+    C) Preparing systems for upgrades in technology  
+    D) Preparing systems for unexpected events  
+    **Trả lời đúng:** D
+    
+    15. 'Khả năng phục hồi' (resilience) có nghĩa là gì khi đề cập đến kiến trúc IT?
+    A) Chuẩn bị hệ thống cho các yêu cầu đã thay đổi
+    B) Chuẩn bị hệ thống cho các mối đe dọa bảo mật
+    C) Chuẩn bị hệ thống cho các bản nâng cấp công nghệ
+    D) Chuẩn bị hệ thống cho các sự kiện bất ngờ
+    **Trả lời đúng:** D
+    
+16. Your DevOps team is a stable team, where team members have been working together for several sprints now. The team is having trouble delivering a new version of the product for use by your customers. You are supposed to be delivering work in sprints of two weeks, but the team is unable to deliver agreed upgrades in time. What is the appropriate approach to meet the timelines in subsequent sprints?  
+    A) Extend the sprint to four weeks to give team more time.  
+    B) Expect that the team will learn from the mistakes and will fix the problem in the next cycle.  
+    C) Shorten the sprint to take small steps and find the problems quickly.  
+    D) Focus on only few limited changes that are viable to be delivered in two weeks.  
+    **Trả lời đúng:** D
+    
+    16. Nhóm DevOps của bạn là một nhóm ổn định, các thành viên đã làm việc cùng nhau trong vài sprint. Nhóm đang gặp khó khăn trong việc cung cấp phiên bản mới của sản phẩm cho khách hàng. Các bạn được cho là sẽ bàn giao công việc trong các sprint kéo dài hai tuần, nhưng nhóm không thể bàn giao các bản nâng cấp đã thỏa thuận đúng hạn. Cách tiếp cận phù hợp để đáp ứng tiến độ trong các sprint tiếp theo là gì?
+    A) Kéo dài sprint lên bốn tuần để nhóm có thêm thời gian.
+    B) Hy vọng rằng nhóm sẽ học hỏi từ những sai lầm và sẽ khắc phục vấn đề trong chu kỳ tiếp theo.
+    C) Rút ngắn sprint để thực hiện các bước nhỏ và tìm ra vấn đề nhanh chóng.
+    D) Chỉ tập trung vào một vài thay đổi giới hạn có thể thực hiện được trong hai tuần.
+    **Trả lời đúng:** D
+    
+17. Which component provides the first feedback on the quality of committed application code changes?  
+    A) Automated Provisioning  
+    B) Automated Build  
+    C) Automated Test  
+    D) Automated Deployment  
+    **Trả lời đúng:** B
+    
+    17. Thành phần nào cung cấp phản hồi đầu tiên về chất lượng của các thay đổi mã nguồn ứng dụng đã commit?
+    A) Cung cấp tự động (Automated Provisioning)
+    B) Build tự động (Automated Build)
+    C) Kiểm thử tự động (Automated Test)
+    D) Triển khai tự động (Automated Deployment)
+    **Trả lời đúng:** B
+    
+18. In the context of cloud computing, which concept enables dynamic adaptation to different system loads?  
+    A) Abstraction  
+    B) Elasticity  
+    C) Metering  
+    D) Multitenancy  
+    **Trả lời đúng:** B
+    
+    18. Trong ngữ cảnh điện toán đám mây, khái niệm nào cho phép thích ứng động với các tải hệ thống khác nhau?
+    A) Trừu tượng hóa (Abstraction)
+    B) Khả năng co giãn (Elasticity)
+    C) Đo lường (Metering)
+    D) Đa thuê bao (Multitenancy)
+    **Trả lời đúng:** B
+    
+19. Which is the correct sequence of tests when testing new software?  
+    A) Functional tests, system tests, unit tests, UI tests  
+    B) UI tests, functional tests, system tests, Unit tests  
+    C) System tests, unit tests, functional tests, UI tests  
+    D) Unit tests, system tests, UI tests, functional tests  
+    **Trả lời đúng:** D
+    
+    19. Trình tự kiểm thử nào là đúng khi kiểm thử phần mềm mới?
+    A) Kiểm thử chức năng, kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử UI
+    B) Kiểm thử UI, kiểm thử chức năng, kiểm thử hệ thống, kiểm thử đơn vị
+    C) Kiểm thử hệ thống, kiểm thử đơn vị, kiểm thử chức năng, kiểm thử UI
+    D) Kiểm thử đơn vị, kiểm thử hệ thống, kiểm thử UI, kiểm thử chức năng
+    **Trả lời đúng:** D
+    
+20. What is a drawback when adopting the separation of duty control?  
+    A) The separation of duty control can often impede development efforts by slowing down and reducing the feedback that engineers receive on their work.  
+    B) The separation of duty control requires the Developer to submit changes to a code librarian, who would review and approve the change before it is promoted to production  
+    C) The separation of duty control results in unnecessary work since it requires inspection of code checkins, and code reviews, providing the necessary reassurance about the quality of our work.  
+    **Trả lời đúng:** A
+    
+    20. Nhược điểm khi áp dụng kiểm soát phân tách nhiệm vụ là gì?
+    A) Kiểm soát phân tách nhiệm vụ thường có thể cản trở nỗ lực phát triển bằng cách làm chậm và giảm phản hồi mà kỹ sư nhận được về công việc của họ.
+    B) Kiểm soát phân tách nhiệm vụ yêu cầu Nhà phát triển gửi thay đổi cho thủ thư mã nguồn (code librarian), người sẽ xem xét và phê duyệt thay đổi trước khi nó được đưa lên production.
+    C) Kiểm soát phân tách nhiệm vụ dẫn đến công việc không cần thiết vì nó yêu cầu kiểm tra các bản check-in mã nguồn và đánh giá mã nguồn, cung cấp sự đảm bảo cần thiết về chất lượng công việc của chúng ta.
+    **Trả lời đúng:** A
+    
+21. Which process serves as a primary control to reduce Operations and security risks and also supports compliance requirements?  
+    A) Change management process  
+    B) Configuration management process  
+    C) Release and deployment management process  
+    D) Service level management process  
+    **Trả lời đúng:** A
+    
+    21. Quy trình nào đóng vai trò là kiểm soát chính để giảm rủi ro Vận hành và bảo mật, đồng thời hỗ trợ các yêu cầu tuân thủ?
+    A) Quy trình quản lý thay đổi (Change management process)
+    B) Quy trình quản lý cấu hình (Configuration management process)
+    C) Quy trình quản lý phát hành và triển khai (Release and deployment management process)
+    D) Quy trình quản lý mức độ dịch vụ (Service level management process)
+    **Trả lời đúng:** A
+    
+22. What is an example of creating telemetry in an application?  
+    A) Operating system (OS) changes  
+    B) Review of system logs on a daily basis  
+    C) Security group changes  
+    D) User password resets  
+    **Trả lời đúng:** D
+    
+    22. Ví dụ về việc tạo telemetry trong một ứng dụng là gì?
+    A) Các thay đổi hệ điều hành (OS)
+    B) Xem xét nhật ký hệ thống hàng ngày
+    C) Các thay đổi nhóm bảo mật
+    D) Đặt lại mật khẩu người dùng
+    **Trả lời đúng:** D
+    
+23. When developers are introducing code, there is always the risk of enabling unauthorized access. Which control does not mitigate that risk?  
+    A) Code reviews  
+    B) Code testing  
+    C) Effective patching  
+    **Trả lời đúng:** C
+    
+    23. Khi các nhà phát triển giới thiệu mã nguồn, luôn có nguy cơ cho phép truy cập trái phép. Kiểm soát nào không giảm thiểu rủi ro đó?
+    A) Đánh giá mã nguồn (Code reviews)
+    B) Kiểm thử mã nguồn (Code testing)
+    C) Vá lỗi hiệu quả (Effective patching)
+    **Trả lời đúng:** C
+    
+24. Developers can make it easy for any engineer to correctly create and use logging and encryption standards in their applications and environments.  
+    Which is not a shared source code repository item that supports this?  
+    A) Code libraries and their recommended configurations  
+    B) Deployment packages  
+    C) Operating System (OS) packages and builds  
+    D) Secret management tools  
+    **Trả lời đúng:** B
+    
+    24. Các nhà phát triển có thể giúp bất kỳ kỹ sư nào dễ dàng tạo và sử dụng đúng các tiêu chuẩn ghi nhật ký và mã hóa trong ứng dụng và môi trường của họ.
+    Cái nào không phải là mục trong kho mã nguồn chung hỗ trợ điều này?
+    A) Các thư viện mã nguồn và cấu hình được khuyến nghị của chúng
+    B) Gói triển khai (Deployment packages)
+    C) Gói và bản dựng hệ điều hành (OS packages and builds)
+    D) Công cụ quản lý bí mật (Secret management tools)
+    **Trả lời đúng:** B
+    
+25. What is the goal of converting local discoveries into global improvements?  
+    A) To elevate the state of the practice of not just Dev and Ops, but also the entire organization.  
+    B) To make it easier for all new and existing services to leverage the collective knowledge  
+    C) To make the work culture more collaborative and to make the systems safer and more resilient.  
+    D) To reinforce a culture where everyone feels comfortable and responsible.  
+    **Trả lời đúng:** A
+    
+    25. Mục tiêu của việc chuyển đổi các khám phá cục bộ thành các cải tiến toàn cầu là gì?
+    A) Nâng cao trạng thái thực hành không chỉ của Dev và Ops mà còn của toàn bộ tổ chức.
+    B) Làm cho tất cả các dịch vụ mới và hiện có dễ dàng tận dụng kiến thức chung hơn
+    C) Làm cho văn hóa làm việc hợp tác hơn và làm cho hệ thống an toàn hơn và có khả năng phục hồi tốt hơn.
+    D) Củng cố một văn hóa mà mọi người cảm thấy thoải mái và có trách nhiệm.
+    **Trả lời đúng:** A
+    
+26. Which two elements are typically stored in a single shared source code repository?  
+    A) 1 and 2  
+    B) 1 and 4  
+    C) 2 and 3  
+    D) 2 and 4  
+    **Trả lời đúng:** D
+    
+    26. Hai yếu tố nào thường được lưu trữ trong một kho mã nguồn chung duy nhất?
+    A) 1 và 2
+    B) 1 và 4
+    C) 2 và 3
+    D) 2 và 4
+    **Trả lời đúng:** D
+    
+27. Which activity should be performed for the successful creation of reusable Operations user stories?  
+    A) Associate Operations user stories to the relevant development enhancements and defects  
+    B) Define activities within the handoff process and then automate these activities using the appropriate tools and supporting workflows  
+    C) Identify all required operational work activities and actors needed to complete them  
+    **Trả lời đúng:** B
+    
+    27. Hoạt động nào nên được thực hiện để tạo thành công các câu chuyện người dùng Vận hành có thể tái sử dụng?
+    A) Liên kết các câu chuyện người dùng Vận hành với các cải tiến và lỗi phát triển liên quan
+    B) Định nghĩa các hoạt động trong quy trình bàn giao và sau đó tự động hóa các hoạt động này bằng cách sử dụng các công cụ phù hợp và quy trình làm việc hỗ trợ
+    C) Xác định tất cả các hoạt động công việc vận hành cần thiết và các tác nhân cần để hoàn thành chúng
+    **Trả lời đúng:** B
+    
+28. What is an example of a non-functional requirement?  
+    A) Have forward and backward compatibility between versions  
+    B) Make it possible to report on delayed schedules  
+    C) Register financial transactions for a hotel booking system  
+    **Trả lời đúng:** A
+    
+    28. Ví dụ về yêu cầu phi chức năng là gì?
+    A) Có khả năng tương thích tiến và lùi giữa các phiên bản
+    B) Cho phép báo cáo về lịch trình bị trì hoãn
+    C) Đăng ký các giao dịch tài chính cho hệ thống đặt phòng khách sạn
+    **Trả lời đúng:** A
+    
+29. What is the first step of a plan for performing a game day?  
+    A) Define and execute drills  
+    B) Identify and address problems, and test  
+    C) Plan the outage  
+    D) Prepare and eliminate SPOFs  
+    **Trả lời đúng:** C
+    
+    29. Bước đầu tiên của kế hoạch thực hiện một game day là gì?
+    A) Định nghĩa và thực hiện các bài tập diễn tập
+    B) Xác định và giải quyết vấn đề, và kiểm thử
+    C) Lập kế hoạch cho sự cố (outage)
+    D) Chuẩn bị và loại bỏ các SPOF (Điểm lỗi duy nhất)
+    **Trả lời đúng:** C
+    
+30. What is required when creating resilience by injecting production failures?  
+    A) Defining the failure mode  
+    B) Organizing post mortem meetings  
+    C) Training the people  
+    D) Using a test environment  
+    **Trả lời đúng:** A
+    
+    30. Điều gì cần thiết khi tạo khả năng phục hồi bằng cách đưa các lỗi production vào?
+    A) Định nghĩa chế độ lỗi (failure mode)
+    B) Tổ chức các cuộc họp post mortem
+    C) Đào tạo con người
+    D) Sử dụng môi trường kiểm thử
+    **Trả lời đúng:** A
+    
+31. Company ABC is adopting the DevOps way of working and wants to promote a learning environment that is open and blameless. ABC recently experienced a major application failure and was able to restore the application service. What is the first task that must be completed during the blameless post-mortem meeting?  
+    A) Construct a timeline of relevant events as they occurred during the major application failure  
+    B) Identify countermeasures to prevent the major application failure from reoccurring in the future  
+    C) Identify the root cause of the major application failure to propose a corrective action to prevent the major application failure from reoccurring in the future  
+    D) Publish the post-mortem to a centralized location where the entire organization can access it and learn from the major application failure  
+    **Trả lời đúng:** A
+    
+    31. Công ty ABC đang áp dụng phương thức làm việc DevOps và muốn thúc đẩy một môi trường học tập cởi mở và không đổ lỗi. Gần đây, ABC đã trải qua một sự cố ứng dụng lớn và đã có thể khôi phục dịch vụ ứng dụng. Nhiệm vụ đầu tiên phải hoàn thành trong cuộc họp post-mortem không đổ lỗi là gì?
+    A) Xây dựng dòng thời gian của các sự kiện liên quan khi chúng xảy ra trong sự cố ứng dụng lớn
+    B) Xác định các biện pháp đối phó để ngăn sự cố ứng dụng lớn tái diễn trong tương lai
+    C) Xác định nguyên nhân gốc rễ của sự cố ứng dụng lớn để đề xuất hành động khắc phục nhằm ngăn sự cố ứng dụng lớn tái diễn trong tương lai
+    D) Xuất bản báo cáo post-mortem đến một vị trí tập trung nơi toàn bộ tổ chức có thể truy cập và học hỏi từ sự cố ứng dụng lớn
+    **Trả lời đúng:** A
+    
+32. A cloud service provider wants to increase the capacity of their service by using a Simian Army Monkey. Which Monkey is needed in this case?  
+    A) Doctor Monkey  
+    B) Janitor Monkey  
+    C) Latency Monkey  
+    **Trả lời đúng:** B
+    
+    32. Một nhà cung cấp dịch vụ đám mây muốn tăng dung lượng dịch vụ của họ bằng cách sử dụng một Simian Army Monkey. Monkey nào cần thiết trong trường hợp này?
+    A) Doctor Monkey
+    B) Janitor Monkey
+    C) Latency Monkey
+    **Trả lời đúng:** B
+    
+33. Which review technique results directly in a decrease in coding errors?  
+    A) Over-the-shoulder review  
+    B) Pair programming  
+    C) Peer review  
+    D) Tool-assisted review  
+    **Trả lời đúng:** B
+    
+    33. Kỹ thuật đánh giá nào trực tiếp dẫn đến giảm lỗi mã hóa?
+    A) Đánh giá qua vai (Over-the-shoulder review)
+    B) Lập trình cặp (Pair programming)
+    C) Đánh giá đồng nghiệp (Peer review)
+    D) Đánh giá được hỗ trợ bởi công cụ (Tool-assisted review)
+    **Trả lời đúng:** B
+    
+34. ease consider the scenario below:  
+    "The developer walks through the code while a colleague gives feedback."  
+    Which review technique is described here?  
+    A) Over-the-shoulder  
+    B) Pair programming  
+    C) Peer review  
+    D) Tool-assisted review  
+    **Trả lời đúng:** A
+    
+    34. Hãy xem xét tình huống dưới đây:
+    "Nhà phát triển đi qua mã nguồn trong khi đồng nghiệp đưa ra phản hồi."
+    Kỹ thuật đánh giá nào được mô tả ở đây?
+    A) Qua vai (Over-the-shoulder)
+    B) Lập trình cặp (Pair programming)
+    C) Đánh giá đồng nghiệp (Peer review)
+    D) Đánh giá được hỗ trợ bởi công cụ (Tool-assisted review)
+    **Trả lời đúng:** A
+    
+35. Company ABC has had challenges in understanding the impact of code changes to their payroll application. Currently, the implemented code changes are poorly documented. The last code fix for example, was documented as follows: “Fix issue #1801 for payroll application”. The company notices that this is a bad pull request.  
+    A good pull request includes the following:  
+    - Why are we implementing the fix?  
+    - Who is implementing the fix?  
+    What else must be included in a good pull request?  
+    A) The business units impacted by the fix  
+    B) The potential risks and countermeasures of implementing the fix  
+    C) The supporting release schedule for implementing the fix  
+    **Trả lời đúng:** B
+    
+    35. Công ty ABC đã gặp thách thức trong việc hiểu tác động của các thay đổi mã nguồn đối với ứng dụng tính lương của họ. Hiện tại, các thay đổi mã nguồn đã triển khai được ghi chép kém. Ví dụ, bản sửa lỗi mã nguồn cuối cùng được ghi chép như sau: “Sửa lỗi #1801 cho ứng dụng tính lương”. Công ty nhận thấy đây là một pull request tồi.
+    Một pull request tốt bao gồm những điều sau:
+    - Tại sao chúng ta lại triển khai bản sửa lỗi?
+    - Ai đang triển khai bản sửa lỗi?
+    Những điều gì khác phải được bao gồm trong một pull request tốt?
+    A) Các đơn vị kinh doanh bị ảnh hưởng bởi bản sửa lỗi
+    B) Các rủi ro tiềm ẩn và biện pháp đối phó khi triển khai bản sửa lỗi
+    C) Lịch trình phát hành hỗ trợ cho việc triển khai bản sửa lỗi
+    **Trả lời đúng:** B
+    
+36. What approach can be used by a Development team to aid in the delivery of expected business outcomes?  
+    A) Careful execution of numerous experiments  
+    B) Full regression testing  
+    C) Hypothesis-driven development  
+    D) SDLC  
+    **Trả lời đúng:** C
+    
+    36. Cách tiếp cận nào có thể được nhóm Phát triển sử dụng để hỗ trợ việc bàn giao kết quả kinh doanh mong đợi?
+    A) Thực hiện cẩn thận nhiều thí nghiệm
+    B) Kiểm thử hồi quy đầy đủ
+    C) Phát triển dựa trên giả thuyết (Hypothesis-driven development)
+    D) SDLC (Software Development Life Cycle)
+    **Trả lời đúng:** C
+    
+37. tup company ABC is having serious challenges in developing features for a mobile navigation application that meet the expectations of the user. What is the best approach to make sure features are directly aligned with the expectations of the user  
+    regarding the UX mobile navigation application?  
+    A) Develop the UX mobile navigation application more fully so consumers have more advanced features and choices to navigate in the UX, providing the consumers more options to customize the UX.  
+    B) Develop the UX mobile navigation application where consumers are randomly selected to be shown one of two versions of a UX they can choose from, either a control or a treatment.  
+    C) Make corrections to the current UX features for the mobile navigation application so that ABC sticks to the core functionality of the UX without sacrificing quality.  
+    D) Release one feature for the mobile navigation application to get feedback from the consumer on the current feature over a period of three weeks  
+    **Trả lời đúng:** B
+    
+    37. Công ty khởi nghiệp ABC đang gặp thách thức nghiêm trọng trong việc phát triển các tính năng cho ứng dụng điều hướng di động đáp ứng kỳ vọng của người dùng. Cách tiếp cận tốt nhất để đảm bảo các tính năng được căn chỉnh trực tiếp với kỳ vọng của người dùng đối với ứng dụng điều hướng di động UX là gì?
+    A) Phát triển ứng dụng điều hướng di động UX đầy đủ hơn để người tiêu dùng có nhiều tính năng và lựa chọn nâng cao hơn để điều hướng trong UX, cung cấp cho người tiêu dùng nhiều tùy chọn hơn để tùy chỉnh UX.
+    B) Phát triển ứng dụng điều hướng di động UX, trong đó người tiêu dùng được chọn ngẫu nhiên để hiển thị một trong hai phiên bản UX mà họ có thể chọn, một là kiểm soát (control), hai là xử lý (treatment).
+    C) Thực hiện chỉnh sửa các tính năng UX hiện tại cho ứng dụng điều hướng di động để ABC bám sát chức năng cốt lõi của UX mà không hy sinh chất lượng.
+    D) Phát hành một tính năng cho ứng dụng điều hướng di động để nhận phản hồi từ người tiêu dùng về tính năng hiện tại trong khoảng thời gian ba tuần.
+    **Trả lời đúng:** B
+    
+38. One of the most powerful techniques in interaction and user experience (UX) design is contextual inquiry. What is the best description of contextual inquiry?  
+    A) The product team asks users to respond to an application demonstration by the product team.  
+    B) The product team interviews users on the use of the application at home.  
+    C) The product team observes users who use the application in their natural environment.  
+    D) The product team studies users during the user acceptance test in a special room with test equipment.  
+    **Trả lời đúng:** C
+    
+    38. Một trong những kỹ thuật mạnh mẽ nhất trong thiết kế tương tác và trải nghiệm người dùng (UX) là contextual inquiry (điều tra theo ngữ cảnh). Mô tả nào tốt nhất về contextual inquiry?
+    A) Nhóm sản phẩm yêu cầu người dùng phản hồi về một buổi demo ứng dụng của nhóm sản phẩm.
+    B) Nhóm sản phẩm phỏng vấn người dùng về việc sử dụng ứng dụng tại nhà.
+    C) Nhóm sản phẩm quan sát người dùng sử dụng ứng dụng trong môi trường tự nhiên của họ.
+    D) Nhóm sản phẩm nghiên cứu người dùng trong quá trình kiểm thử chấp nhận của người dùng trong một phòng đặc biệt với thiết bị kiểm thử.
+    **Trả lời đúng:** C
+    
+39. Which is a unique characteristic of the Hands-Off Readiness Review (HRR) and not of the Launch Readiness Review (LRR)?  
+    A) HRR is far more stringent and has higher acceptance standards.  
+    B) HRR is self-reported by the product teams.  
+    C) HRR is signed off before any new service is made publicly available.  
+    D) HRR is signed off before any new service receives live production traffic.  
+    **Trả lời đúng:** A
+    
+    39. Đặc điểm duy nhất của Hands-Off Readiness Review (HRR) mà không phải của Launch Readiness Review (LRR) là gì?
+    A) HRR nghiêm ngặt hơn nhiều và có tiêu chuẩn chấp nhận cao hơn.
+    B) HRR được các nhóm sản phẩm tự báo cáo.
+    C) HRR được ký duyệt trước khi bất kỳ dịch vụ mới nào được công bố.
+    D) HRR được ký duyệt trước khi bất kỳ dịch vụ mới nào nhận lưu lượng truy cập production trực tiếp.
+    **Trả lời đúng:** A
+    
+40. A software company has composed the following launching guidance requirements:  
+    - Defect counts and severity: Does the application perform as designed?  
+    - Monitoring coverage: Is the coverage of monitoring sufficient to restore service when things go wrong?  
+    - Systems architecture: Is the service tightly-coupled enough to solve a high rate of incidents in production?  
+    - Type/frequency of pager alerts: Is the application generating an insupportable number of alerts in production?  
+    Which launching guidance requirement does not comply with the DevOps way of working?  
+    A) Defect counts and severity: Does the application actually perform as designed?  
+    B) Monitoring coverage: Is the coverage of monitoring sufficient to restore service when things go wrong?  
+    C) System architecture: Is the service tightly-coupled enough to solve a high rate of incidents in production?  
+    D) Type/frequency of pager alerts: Is the application generating an unsupportable number of alerts in production?  
+    **Trả lời đúng:** C
+    
+    40. Một công ty phần mềm đã soạn thảo các yêu cầu hướng dẫn ra mắt sau:
+    - Số lượng và mức độ nghiêm trọng của lỗi: Ứng dụng có hoạt động như đã thiết kế không?
+    - Phạm vi giám sát: Phạm vi giám sát có đủ để khôi phục dịch vụ khi có sự cố xảy ra không?
+    - Kiến trúc hệ thống: Dịch vụ có được liên kết chặt chẽ đủ để giải quyết tỷ lệ sự cố cao trong production không?
+    - Loại/tần suất cảnh báo pager: Ứng dụng có tạo ra số lượng cảnh báo không thể chịu đựng được trong production không?
+    Yêu cầu hướng dẫn ra mắt nào không tuân thủ phương thức làm việc DevOps?
+    A) Số lượng và mức độ nghiêm trọng của lỗi: Ứng dụng có thực sự hoạt động như đã thiết kế không?
+    B) Phạm vi giám sát: Phạm vi giám sát có đủ để khôi phục dịch vụ khi có sự cố xảy ra không?
+    C) Kiến trúc hệ thống: Dịch vụ có được liên kết chặt chẽ đủ để giải quyết tỷ lệ sự cố cao trong production không?
+    D) Loại/tần suất cảnh báo pager: Ứng dụng có tạo ra số lượng cảnh báo không thể chịu đựng được trong production không?
+    **Trả lời đúng:** C
+    
+41. In an environment that has automated testing, fast deployment processes and sufficient telemetry, which technique offers most DevOps benefits to the business?  
+    A) Fix forward  
+    B) Roll back  
+    C) Take broken servers out  
+    D) Turn off broken features  
+    **Trả lời đúng:** A
+    
+    41. Trong một môi trường có kiểm thử tự động, quy trình triển khai nhanh và đủ telemetry, kỹ thuật nào mang lại nhiều lợi ích DevOps nhất cho doanh nghiệp?
+    A) Sửa lỗi và triển khai tiếp (Fix forward)
+    B) Hoàn tác (Roll back)
+    C) Loại bỏ máy chủ bị hỏng
+    D) Tắt các tính năng bị hỏng
+    **Trả lời đúng:** A
+    
+42. For which audience does self-service access telemetry add value?  
+    A) Developers only  
+    B) Developers and operators only  
+    C) Developers, operators and stakeholders only  
+    D) Developers, operators, stakeholders and customers  
+    **Trả lời đúng:** D
+    
+    42. Đối tượng nào được hưởng lợi từ việc truy cập telemetry tự phục vụ?
+    A) Chỉ Nhà phát triển
+    B) Chỉ Nhà phát triển và người vận hành
+    C) Chỉ Nhà phát triển, người vận hành và các bên liên quan
+    D) Nhà phát triển, người vận hành, các bên liên quan và khách hàng
+    **Trả lời đúng:** D
+    
+43. Within the monitoring framework, data should be collected from three layers. What is not one of those three layers?  
+    A) Application  
+    B) Business Logic  
+    C) Business Metrics  
+    D) Operating System  
+    **Trả lời đúng:** C
+    
+    43. Trong khung giám sát, dữ liệu nên được thu thập từ ba lớp. Cái nào không phải là một trong ba lớp đó?
+    A) Ứng dụng (Application)
+    B) Logic kinh doanh (Business Logic)
+    C) Chỉ số kinh doanh (Business Metrics)
+    D) Hệ điều hành (Operating System)
+    **Trả lời đúng:** C
+    
+44. What is the best telemetry approach to solve problems within DevOps?  
+    A) Investing in telemetry tooling is important, and it should focus on the production environment, deployment pipeline and pre-production.  
+    B) Investing in telemetry tooling is important, and it should focus on the production environment only.  
+    C) Investing in telemetry tooling is not important, the focus should be on rebooting redundant services which is much cheaper.  
+    D) Investing in telemetry tooling is not important, the focus should be on the user of the application who is a much more complete and cheaper monitor provision.  
+    **Trả lời đúng:** A
+    
+    44. Cách tiếp cận telemetry tốt nhất để giải quyết vấn đề trong DevOps là gì?
+    A) Đầu tư vào các công cụ telemetry là quan trọng, và nó nên tập trung vào môi trường production, pipeline triển khai và môi trường tiền production.
+    B) Đầu tư vào các công cụ telemetry là quan trọng, và nó chỉ nên tập trung vào môi trường production.
+    C) Đầu tư vào các công cụ telemetry không quan trọng, trọng tâm nên là khởi động lại các dịch vụ dư thừa, điều này rẻ hơn nhiều.
+    D) Đầu tư vào các công cụ telemetry không quan trọng, trọng tâm nên là người dùng ứng dụng, người cung cấp giám sát hoàn chỉnh và rẻ hơn nhiều.
+    **Trả lời đúng:** A
+    
+45. Which is a characteristic of an architecture that enables productivity, testability and safety?  
+    A) Loosely-defined interfaces  
+    B) Tightly-coupled  
+    C) Well-defined APIs  
+    **Trả lời đúng:** C
+    
+    45. Đặc điểm nào của một kiến trúc giúp tăng năng suất, khả năng kiểm thử và an toàn?
+    A) Giao diện được định nghĩa lỏng lẻo
+    B) Liên kết chặt chẽ
+    C) API được định nghĩa rõ ràng
+    **Trả lời đúng:** C
+    
+46. A retail company has radically changed the development process from waterfall to DevOps. Many choices have to be made in a short period of time. This is causing some technical debt. The time to market, for example, has increased dramatically. There are, however, ways to eliminate a lot of the delays. Value stream mapping shows that 20% of the sprint time is spent on porting code, all maintained on separate code branches.  
+    Which solution for this technical debt will result in a faster flow?  
+    A) Adopt trunk-based development  
+    B) Reproduce test failures on Developer workstations  
+    C) Start doing canary releases  
+    D) Use more telemetry  
+    **Trả lời đúng:** A
+    
+    46. Một công ty bán lẻ đã thay đổi hoàn toàn quy trình phát triển từ waterfall sang DevOps. Nhiều lựa chọn phải được đưa ra trong thời gian ngắn. Điều này gây ra một số nợ kỹ thuật. Ví dụ, thời gian đưa sản phẩm ra thị trường đã tăng lên đáng kể. Tuy nhiên, có những cách để loại bỏ nhiều sự chậm trễ. Bản đồ luồng giá trị cho thấy 20% thời gian sprint được dành cho việc chuyển mã nguồn, tất cả được duy trì trên các nhánh mã nguồn riêng biệt.
+    Giải pháp nào cho nợ kỹ thuật này sẽ dẫn đến luồng công việc nhanh hơn?
+    A) Áp dụng phát triển dựa trên trunk (trunk-based development)
+    B) Tái tạo lỗi kiểm thử trên máy trạm của Nhà phát triển
+    C) Bắt đầu thực hiện các bản phát hành canary
+    D) Sử dụng nhiều telemetry hơn
+    **Trả lời đúng:** A
+    
+47. An insurance company hires a DevOps professional to advise the DevOps team in choosing a branching strategy. The DevOps professional evaluates two strategies:  
+    1. Optimize for individual productivity  
+    2. Optimize for team productivity  
+    Which statement about these two strategies is true?  
+    A) Both strategies result in an equal amount of merging effort.  
+    B) Strategy 1 results in far more merging effort than 2.  
+    C) Strategy 2 results in far more merging effort than 1.  
+    **Trả lời đúng:** B
+    
+    47. Một công ty bảo hiểm thuê một chuyên gia DevOps để tư vấn cho nhóm DevOps trong việc lựa chọn chiến lược phân nhánh (branching strategy). Chuyên gia DevOps đánh giá hai chiến lược:
+    1. Tối ưu hóa năng suất cá nhân
+    2. Tối ưu hóa năng suất nhóm
+    Phát biểu nào về hai chiến lược này là đúng?
+    A) Cả hai chiến lược đều dẫn đến nỗ lực hợp nhất (merging) bằng nhau.
+    B) Chiến lược 1 dẫn đến nỗ lực hợp nhất nhiều hơn đáng kể so với 2.
+    C) Chiến lược 2 dẫn đến nỗ lực hợp nhất nhiều hơn đáng kể so với 1.
+    **Trả lời đúng:** B
+    
+48. DevOps team wants to increase velocity by using test-driven development. Which order of actions is correct?  
+    A) 1. Refactor  
+    2. Write a test case  
+    3. Write the functional code  
+    B) 1. Write the functional code  
+    4. Write a test case  
+    5. Refactor  
+    C) 1. Write a test case  
+    6. Write the functional code  
+    7. Refactor  
+    **Trả lời đúng:** C
+    
+    48. Nhóm DevOps muốn tăng tốc độ bằng cách sử dụng phát triển hướng kiểm thử (test-driven development). Trình tự các hành động nào là đúng?
+    A) 1. Tái cấu trúc
+    2. Viết một trường hợp kiểm thử
+    3. Viết mã chức năng
+    B) 1. Viết mã chức năng
+    4. Viết một trường hợp kiểm thử
+    5. Tái cấu trúc
+    C) 1. Viết một trường hợp kiểm thử
+    6. Viết mã chức năng
+    7. Tái cấu trúc
+    **Trả lời đúng:** C
+    
+49. A specific design goal of an automated test suite is to find errors as early in the testing as possible. The ideal testing automation pyramid shows the correct order in which the test must be performed. Which test must be performed first?  
+    A) Automated API Test  
+    B) Automated Component Test  
+    C) Automated Integration Test  
+    D) Automated Unit Test  
+    **Trả lời đúng:** D
+    
+    49. Mục tiêu thiết kế cụ thể của bộ kiểm thử tự động là tìm lỗi càng sớm trong quá trình kiểm thử càng tốt. Kim tự tháp tự động hóa kiểm thử lý tưởng hiển thị thứ tự đúng mà kiểm thử phải được thực hiện. Kiểm thử nào phải được thực hiện đầu tiên?
+    A) Kiểm thử API tự động
+    B) Kiểm thử thành phần tự động
+    C) Kiểm thử tích hợp tự động
+    D) Kiểm thử đơn vị tự động
+    **Trả lời đúng:** D
+    
+50. Which tooling can best be used to automate the building and configuration of environments?  
+    A) A ticketing system for the provision of a development, test or acceptance environment  
+    B) A tool that copies the production environment settings to the development, test and acceptance environments  
+    C) Configuration files per environment that are manually distributed and maintained in order to keep the environments in sync  
+    D) Infrastructure as code configuration management tools that enable the programmers in changing the environments themselves  
+    **Trả lời đúng:** D
+    
+    50. Công cụ nào có thể được sử dụng tốt nhất để tự động hóa việc xây dựng và cấu hình môi trường?
+    A) Một hệ thống ticketing để cung cấp môi trường phát triển, kiểm thử hoặc chấp nhận
+    B) Một công cụ sao chép cài đặt môi trường production sang môi trường phát triển, kiểm thử và chấp nhận
+    C) Các tệp cấu hình cho mỗi môi trường được phân phối và duy trì thủ công để giữ cho các môi trường đồng bộ
+    D) Công cụ quản lý cấu hình Infrastructure as code cho phép các lập trình viên tự thay đổi môi trường
+    **Trả lời đúng:** D
+    
+51. An IT team gets together to review some changes that should be made in order to further adopt DevOps. They need to agree on a Definition of Done (DoD) that is aligned with the DevOps principles. Which Definition of Done is a proper fit for DevOps?  
+    A) The code has been integrated into the main branch and passed automated unit testing.  
+    B) The code is running as expected on the Developer's laptop and passed unit testing.  
+    C) The code is running in a production-like environment and passed user acceptance testing.  
+    **Trả lời đúng:** C
+    
+    51. Một nhóm IT họp lại để xem xét một số thay đổi nên được thực hiện để tiếp tục áp dụng DevOps. Họ cần đồng ý về một Định nghĩa Hoàn thành (Definition of Done - DoD) phù hợp với các nguyên tắc DevOps. Định nghĩa Hoàn thành nào phù hợp với DevOps?
+    A) Mã nguồn đã được tích hợp vào nhánh chính và vượt qua kiểm thử đơn vị tự động.
+    B) Mã nguồn đang chạy như mong đợi trên máy tính xách tay của Nhà phát triển và vượt qua kiểm thử đơn vị.
+    C) Mã nguồn đang chạy trong môi trường giống production và vượt qua kiểm thử chấp nhận của người dùng.
+    **Trả lời đúng:** C
+    
+52. In order to minimize risks to the business within DevOps, what is a main goal of version control?  
+    A) Ensure the ability to alert when configuration changes from the desired state  
+    B) Ensure the ability to re-create the previous state of the test environment  
+    C) Ensure the ability to re-create the production environment and build processes  
+    D) Ensure the ability to share the source code between different developers teams  
+    **Trả lời đúng:** C
+    
+    52. Để giảm thiểu rủi ro cho doanh nghiệp trong DevOps, mục tiêu chính của kiểm soát phiên bản là gì?
+    A) Đảm bảo khả năng cảnh báo khi cấu hình thay đổi so với trạng thái mong muốn
+    B) Đảm bảo khả năng tái tạo trạng thái trước đó của môi trường kiểm thử
+    C) Đảm bảo khả năng tái tạo môi trường production và các quy trình build
+    D) Đảm bảo khả năng chia sẻ mã nguồn giữa các nhóm phát triển khác nhau
+    **Trả lời đúng:** C
+    
+53. Which value should be included in a value map process block?  
+    A) Application telemetry  
+    B) Percent complete and accurate  
+    C) Team velocity  
+    D) Work in Progress (WiP)  
+    **Trả lời đúng:** B
+    
+    53. Giá trị nào nên được đưa vào khối quy trình trên bản đồ giá trị (value map)?
+    A) Telemetry ứng dụng
+    B) Tỷ lệ phần trăm hoàn thành và chính xác (Percent complete and accurate)
+    C) Tốc độ của nhóm (Team velocity)
+    D) Công việc đang tiến hành (Work in Progress - WiP)
+    **Trả lời đúng:** B
+    
+54. A bank needs longer timescales to bring new or changed offerings to market, due to delays in the creation of new environments by Operations engineers. What is true about the automatic creation of environments?  
+    A) Automatically created environments can be used for all environments.  
+    B) Automatically created environments can be used for all environments except the production environment due to securityestrictions.  
+    C) DevOps requires a review by Operations when automatically creating environments in production due to the four eyes principle.  
+    D) DevOps requires the manual agreement of Operations when automatically creating environments in production due to the four eyes principle.  
+    **Trả lời đúng:** A
+    
+    54. Một ngân hàng cần thời gian dài hơn để đưa các sản phẩm hoặc dịch vụ mới hoặc đã thay đổi ra thị trường, do sự chậm trễ trong việc tạo môi trường mới của các kỹ sư Vận hành. Điều gì là đúng về việc tạo môi trường tự động?
+    A) Các môi trường được tạo tự động có thể được sử dụng cho tất cả các môi trường.
+    B) Các môi trường được tạo tự động có thể được sử dụng cho tất cả các môi trường trừ môi trường production do các hạn chế bảo mật.
+    C) DevOps yêu cầu sự xem xét của Vận hành khi tạo môi trường tự động trong production do nguyên tắc bốn mắt (four eyes principle).
+    D) DevOps yêu cầu sự đồng ý thủ công của Vận hành khi tạo môi trường tự động trong production do nguyên tắc bốn mắt (four eyes principle).
+    **Trả lời đúng:** A
+    
+55. More market-oriented outcomes can be created by better integrating Operations capabilities into Development teams, making both more efficient and productive. Which approach would best accomplish this?  
+    A) Assign a Developer liaison to the Operations team  
+    B) Create infrastructure self-services  
+    C) Outsource the Operations team  
+    D) Train Developers to do the work of Operations  
+    **Trả lời đúng:** B
+    
+    55. Các kết quả hướng thị trường hơn có thể được tạo ra bằng cách tích hợp tốt hơn khả năng Vận hành vào các nhóm Phát triển, làm cho cả hai hiệu quả và năng suất hơn. Cách tiếp cận nào sẽ đạt được điều này tốt nhất?
+    A) Chỉ định một liên lạc viên Phát triển cho nhóm Vận hành
+    B) Tạo các dịch vụ tự phục vụ về hạ tầng (infrastructure self-services)
+    C) Thuê ngoài nhóm Vận hành
+    D) Đào tạo các Nhà phát triển làm công việc của Vận hành
+    **Trả lời đúng:** B
+    
+56. What is a benefit of having Development and Operations using a shared tool?  
+    A) A unified backlog, where everyone prioritizes improvement projects from a global perspective.  
+    B) Developers get feedback on how their applications perform in production, which includes fixing it when it breaks.  
+    C) Enabling the team to perform deployments during normal business hours and conducting simple changeovers.  
+    D) Transforming Operations knowledge into automated code that can be far more reliable and widely reused.  
+    **Trả lời đúng:** A
+    
+    56. Lợi ích của việc Phát triển và Vận hành sử dụng một công cụ chung là gì?
+    A) Một backlog thống nhất, nơi mọi người ưu tiên các dự án cải tiến từ góc độ toàn cầu.
+    B) Các nhà phát triển nhận phản hồi về cách ứng dụng của họ hoạt động trong production, bao gồm cả việc sửa chữa khi nó bị lỗi.
+    C) Cho phép nhóm thực hiện triển khai trong giờ làm việc bình thường và tiến hành các chuyển đổi đơn giản.
+    D) Biến đổi kiến thức Vận hành thành mã nguồn tự động có thể đáng tin cậy hơn và được tái sử dụng rộng rãi.
+    **Trả lời đúng:** A
+    
+57. What is the difference between a System of Engagement (SoE) and a System of Records (SoR) in terms of pace of change?  
+    A) SoE and SoR typically have the same pace of change.  
+    B) SoE typically has a much higher pace of change than SoR.  
+    C) SoE typically has a much lower pace of change than SoR.  
+    D) This relationship differs per information system.  
+    **Trả lời đúng:** B
+    
+    57. Sự khác biệt giữa System of Engagement (SoE) và System of Records (SoR) về tốc độ thay đổi là gì?
+    A) SoE và SoR thường có cùng tốc độ thay đổi.
+    B) SoE thường có tốc độ thay đổi cao hơn đáng kể so với SoR.
+    C) SoE thường có tốc độ thay đổi thấp hơn đáng kể so với SoR.
+    D) Mối quan hệ này khác nhau tùy thuộc vào hệ thống thông tin.
+    **Trả lời đúng:** B
+    
+58. To which of the Three Ways does ""institutionalizing the improvement of daily work"" belong?  
+    A) Continuous learning and experimentation  
+    B) Feedback  
+    C) Flow  
+    **Trả lời đúng:** A
+    
+    58. "Thể chế hóa việc cải thiện công việc hàng ngày" thuộc về Cách thứ mấy trong Ba Cách?
+    A) Học hỏi và thử nghiệm liên tục
+    B) Phản hồi
+    C) Luồng công việc
+    **Trả lời đúng:** A
+    
+59. What is a principle of the Agile Manifesto?  
+    A) To create a culture of continual and dynamic learning.  
+    B) To create feedback and feedforward loops into our system of work.  
+    C) To deliver working software frequently, from a couple of weeks to a couple of months.  
+    D) To increase flow by making work visible, by reducing batch sizes and intervals of work, and by building quality.  
+    **Trả lời đúng:** C
+    
+    59. Nguyên tắc nào của Tuyên ngôn Agile?
+    A) Tạo ra một văn hóa học hỏi liên tục và năng động.
+    B) Tạo ra các vòng lặp phản hồi và phản hồi về phía trước vào hệ thống làm việc của chúng ta.
+    C) Bàn giao phần mềm chạy được thường xuyên, từ vài tuần đến vài tháng.
+    D) Tăng luồng công việc bằng cách làm cho công việc hiển thị, giảm kích thước lô và khoảng thời gian làm việc, và xây dựng chất lượng.
+    **Trả lời đúng:** C
+    
+60. Which tool helps lowering risk during development as customer feedback is embedded into the design process?  
+    A) Test Automation  
+    B) Snapshot Deployment  
+    C) Story Mapping  
+    D) Value Stream Mapping  
+    **Trả lời đúng:** C
+    
+    60. Công cụ nào giúp giảm rủi ro trong quá trình phát triển khi phản hồi của khách hàng được tích hợp vào quy trình thiết kế?
+    A) Tự động hóa kiểm thử
+    B) Triển khai Snapshot
+    C) Story Mapping
+    D) Value Stream Mapping
+    **Trả lời đúng:** C
